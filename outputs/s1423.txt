@@ -1,0 +1,6414 @@
+1st Parsing in order to find the number of elements...
+
+first parsing ... number of ios: 25
+
+
+first parsing ... number of wires: 528
+
+2nd Parsing in order to find the elements...
+
+
+----------Wires Array----------
+Number of wires: 528
+**********[0]**********
+
+**********[1]**********
+
+**********[2]**********
+
+**********[3]**********
+
+**********[4]**********
+
+**********[5]**********
+
+**********[6]**********
+
+**********[7]**********
+
+**********[8]**********
+
+**********[9]**********
+
+**********[10]**********
+
+**********[11]**********
+
+**********[12]**********
+
+**********[13]**********
+
+**********[14]**********
+
+**********[15]**********
+----->NAME = | n390 |
+--->ccs num is 2: | U596 | | U825 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n480 |
+--->ccs num is 4: | DFF_45 | | U663 | | U798 | | U804 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[16]**********
+----->NAME = | n391 |
+--->ccs num is 2: | U596 | | U883 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n481 |
+--->ccs num is 3: | DFF_61 | | U768 | | U874 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[17]**********
+----->NAME = | n392 |
+--->ccs num is 2: | U625 | | U766 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n482 |
+--->ccs num is 2: | DFF_12 | | U875 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[18]**********
+----->NAME = | G303 |
+--->ccs num is 2: | DFF_25 | | U629 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n393 |
+--->ccs num is 2: | U766 | | U890 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n483 |
+--->ccs num is 2: | DFF_23 | | U656 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[19]**********
+----->NAME = | G214 |
+--->ccs num is 2: | DFF_18 | | U563 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n394 |
+--->ccs num is 2: | U764 | | U889 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n484 |
+--->ccs num is 2: | DFF_14 | | U782 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[20]**********
+----->NAME = | G125 |
+--->ccs num is 2: | DFF_5 | | U643 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n395 |
+--->ccs num is 2: | U764 | | U891 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n485 |
+--->ccs num is 2: | DFF_67 | | U734 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[21]**********
+----->NAME = | n396 |
+--->ccs num is 2: | DFF_72 | | U736 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n486 |
+--->ccs num is 2: | U702 | | U703 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[22]**********
+----->NAME = | n487 |
+--->ccs num is 2: | U753 | | U754 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[23]**********
+----->NAME = | G218 |
+--->ccs num is 2: | DFF_19 | | U581 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n398 |
+--->ccs num is 3: | DFF_44 | | U600 | | U718 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n488 |
+--->ccs num is 2: | U754 | | U755 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[24]**********
+----->NAME = | G129 |
+--->ccs num is 2: | DFF_6 | | U659 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G309 |
+--->ccs num is 2: | DFF_26 | | U508 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n399 |
+--->ccs num is 2: | DFF_42 | | U625 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n489 |
+--->ccs num is 2: | U755 | | U756 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[25]**********
+
+**********[26]**********
+
+**********[27]**********
+
+**********[28]**********
+
+**********[29]**********
+
+**********[30]**********
+
+**********[31]**********
+
+**********[32]**********
+
+**********[33]**********
+
+**********[34]**********
+
+**********[35]**********
+
+**********[36]**********
+
+**********[37]**********
+
+**********[38]**********
+
+**********[39]**********
+
+**********[40]**********
+
+**********[41]**********
+
+**********[42]**********
+
+**********[43]**********
+
+**********[44]**********
+
+**********[45]**********
+
+**********[46]**********
+
+**********[47]**********
+
+**********[48]**********
+----->NAME = | n490 |
+--->ccs num is 2: | U753 | | U757 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[49]**********
+----->NAME = | n491 |
+--->ccs num is 3: | U758 | | U763 | | U786 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[50]**********
+----->NAME = | n492 |
+--->ccs num is 2: | U760 | | U761 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[51]**********
+----->NAME = | n493 |
+--->ccs num is 5: | U776 | | U850 | | U857 | | U863 | | U876 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[52]**********
+----->NAME = | n494 |
+--->ccs num is 3: | U675 | | U777 | | U836 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[53]**********
+----->NAME = | G315 |
+--->ccs num is 2: | DFF_27 | | U505 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G405 |
+--->ccs num is 2: | DFF_36 | | U606 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n495 |
+--->ccs num is 2: | U759 | | U790 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[54]**********
+----->NAME = | n496 |
+--->ccs num is 14: | U472 | | U492 | | U518 | | U520 | | U531 | | U581 | | U659 | | U660 | | U814 | | U849 | | U850 | | U851 | | U852 | | U892 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[55]**********
+----->NAME = | n497 |
+--->ccs num is 14: | U511 | | U528 | | U529 | | U548 | | U558 | | U563 | | U564 | | U585 | | U643 | | U644 | | U665 | | U676 | | U738 | | U830 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[56]**********
+----->NAME = | G408 |
+--->ccs num is 2: | DFF_37 | | U830 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[57]**********
+
+**********[58]**********
+
+**********[59]**********
+
+**********[60]**********
+
+**********[61]**********
+
+**********[62]**********
+
+**********[63]**********
+
+**********[64]**********
+
+**********[65]**********
+
+**********[66]**********
+
+**********[67]**********
+
+**********[68]**********
+
+**********[69]**********
+
+**********[70]**********
+
+**********[71]**********
+
+**********[72]**********
+
+**********[73]**********
+
+**********[74]**********
+
+**********[75]**********
+
+**********[76]**********
+
+**********[77]**********
+
+**********[78]**********
+
+**********[79]**********
+
+**********[80]**********
+
+**********[81]**********
+----->NAME = | G140 |
+--->ccs num is 2: | DFF_7 | | U676 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[82]**********
+----->NAME = | G321 |
+--->ccs num is 2: | DFF_28 | | U626 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[83]**********
+
+**********[84]**********
+----->NAME = | G503 |
+--->ccs num is 2: | DFF_51 | | U686 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[85]**********
+----->NAME = | G144 |
+--->ccs num is 2: | DFF_8 | | U518 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[86]**********
+
+**********[87]**********
+----->NAME = | G416 |
+--->ccs num is 2: | DFF_38 | | U582 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[88]**********
+----->NAME = | G237 |
+--->ccs num is 2: | DFF_20 | | U526 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[89]**********
+----->NAME = | G328 |
+--->ccs num is 3: | DFF_1 | | U636 | | U667 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[90]**********
+----->NAME = | G149 |
+--->ccs num is 2: | DFF_9 | | U660 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[91]**********
+
+**********[92]**********
+
+**********[93]**********
+
+**********[94]**********
+
+**********[95]**********
+
+**********[96]**********
+
+**********[97]**********
+
+**********[98]**********
+
+**********[99]**********
+
+**********[100]**********
+
+**********[101]**********
+
+**********[102]**********
+
+**********[103]**********
+
+**********[104]**********
+
+**********[105]**********
+
+**********[106]**********
+
+**********[107]**********
+
+**********[108]**********
+
+**********[109]**********
+
+**********[110]**********
+
+**********[111]**********
+
+**********[112]**********
+
+**********[113]**********
+
+**********[114]**********
+
+**********[115]**********
+
+**********[116]**********
+----->NAME = | G242 |
+--->ccs num is 2: | DFF_21 | | U523 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[117]**********
+
+**********[118]**********
+----->NAME = | G154 |
+--->ccs num is 2: | DFF_10 | | U814 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G424 |
+--->ccs num is 2: | DFF_39 | | U611 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[119]**********
+
+**********[120]**********
+
+**********[121]**********
+----->NAME = | G247 |
+--->ccs num is 2: | DFF_22 | | U657 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G427 |
+--->ccs num is 2: | DFF_40 | | U849 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[122]**********
+----->NAME = | G608 |
+--->ccs num is 2: | DFF_62 | | U722 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[123]**********
+----->NAME = | G159 |
+--->ccs num is 2: | DFF_11 | | U851 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[124]**********
+
+**********[125]**********
+
+**********[126]**********
+
+**********[127]**********
+
+**********[128]**********
+
+**********[129]**********
+
+**********[130]**********
+
+**********[131]**********
+
+**********[132]**********
+
+**********[133]**********
+
+**********[134]**********
+
+**********[135]**********
+
+**********[136]**********
+
+**********[137]**********
+
+**********[138]**********
+
+**********[139]**********
+
+**********[140]**********
+
+**********[141]**********
+
+**********[142]**********
+
+**********[143]**********
+
+**********[144]**********
+
+**********[145]**********
+
+**********[146]**********
+
+**********[147]**********
+
+**********[148]**********
+
+**********[149]**********
+----->NAME = | G252 |
+--->ccs num is 2: | DFF_23 | | U655 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n2 |
+--->ccs num is 2: | U523 | | U524 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[150]**********
+----->NAME = | G613 |
+--->ccs num is 2: | DFF_63 | | U719 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n3 |
+--->ccs num is 3: | U683 | | U684 | | U685 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[151]**********
+----->NAME = | n4 |
+--->ccs num is 2: | U520 | | U803 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[152]**********
+----->NAME = | G705 |
+--->ccs num is 2: | DFF_71 | | U531 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[153]**********
+----->NAME = | G166 |
+--->ccs num is 2: | DFF_12 | | U644 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G526 |
+--->ccs num is 2: | DFF_52 | | U488 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n6 |
+--->ccs num is 2: | U518 | | U815 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[154]**********
+----->NAME = | G707 |
+--->ccs num is 2: | DFF_72 | | U729 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n7 |
+--->ccs num is 3: | U804 | | U808 | | U822 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[155]**********
+----->NAME = | G438 |
+--->ccs num is 2: | DFF_41 | | U529 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n8 |
+--->ccs num is 3: | U477 | | U801 | | U812 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[156]**********
+
+**********[157]**********
+
+**********[158]**********
+
+**********[159]**********
+
+**********[160]**********
+
+**********[161]**********
+
+**********[162]**********
+
+**********[163]**********
+
+**********[164]**********
+
+**********[165]**********
+
+**********[166]**********
+
+**********[167]**********
+
+**********[168]**********
+
+**********[169]**********
+
+**********[170]**********
+
+**********[171]**********
+
+**********[172]**********
+
+**********[173]**********
+
+**********[174]**********
+
+**********[175]**********
+
+**********[176]**********
+
+**********[177]**********
+
+**********[178]**********
+
+**********[179]**********
+
+**********[180]**********
+----->NAME = | G260 |
+--->ccs num is 2: | DFF_24 | | U682 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n10 |
+--->ccs num is 4: | U835 | | U837 | | U841 | | U877 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n100 |
+--->ccs num is 2: | U531 | | U532 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[181]**********
+----->NAME = | G441 |
+--->ccs num is 2: | DFF_42 | | U542 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G531 |
+--->ccs num is 2: | DFF_53 | | U486 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n11 |
+--->ccs num is 2: | U608 | | U807 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n101 |
+--->ccs num is 2: | U532 | | U533 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[182]**********
+----->NAME = | n12 |
+--->ccs num is 3: | U473 | | U485 | | U486 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n102 |
+--->ccs num is 2: | U532 | | U534 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[183]**********
+----->NAME = | G713 |
+--->ccs num is 2: | DFF_73 | | U528 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n13 |
+--->ccs num is 4: | U474 | | U476 | | U489 | | U588 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n103 |
+--->ccs num is 2: | U514 | | U534 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[184]**********
+----->NAME = | n14 |
+--->ccs num is 2: | U782 | | U784 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n104 |
+--->ccs num is 2: | U515 | | U534 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[185]**********
+----->NAME = | G175 |
+--->ccs num is 2: | DFF_13 | | U548 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n15 |
+--->ccs num is 5: | U765 | | U787 | | U788 | | U789 | | U791 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n105 |
+--->ccs num is 2: | U515 | | U516 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[186]**********
+----->NAME = | G536 |
+--->ccs num is 2: | DFF_54 | | U484 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n16 |
+--->ccs num is 5: | U480 | | U565 | | U617 | | U618 | | U843 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n106 |
+--->ccs num is 2: | U516 | | U838 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[187]**********
+----->NAME = | G447 |
+--->ccs num is 2: | DFF_43 | | U702 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n17 |
+--->ccs num is 3: | U562 | | U772 | | U823 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n107 |
+--->ccs num is 2: | U516 | | U517 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[188]**********
+----->NAME = | n18 |
+--->ccs num is 4: | U832 | | U833 | | U844 | | U881 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n108 |
+--->ccs num is 2: | U517 | | U873 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[189]**********
+----->NAME = | n19 |
+--->ccs num is 2: | DFF_2 | | U642 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n109 |
+--->ccs num is 2: | U517 | | U874 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[190]**********
+
+**********[191]**********
+
+**********[192]**********
+
+**********[193]**********
+
+**********[194]**********
+
+**********[195]**********
+
+**********[196]**********
+
+**********[197]**********
+
+**********[198]**********
+
+**********[199]**********
+
+**********[200]**********
+
+**********[201]**********
+
+**********[202]**********
+
+**********[203]**********
+
+**********[204]**********
+
+**********[205]**********
+
+**********[206]**********
+
+**********[207]**********
+
+**********[208]**********
+
+**********[209]**********
+
+**********[210]**********
+
+**********[211]**********
+
+**********[212]**********
+
+**********[213]**********
+----->NAME = | G360 |
+--->ccs num is 2: | DFF_29 | | U602 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n20 |
+--->ccs num is 3: | DFF_3 | | U521 | | U800 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n110 |
+--->ccs num is 5: | U496 | | U573 | | U590 | | U601 | | U874 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n200 |
+--->ccs num is 4: | U798 | | U816 | | U822 | | U872 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[214]**********
+----->NAME = | G451 |
+--->ccs num is 2: | DFF_44 | | U716 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G541 |
+--->ccs num is 2: | DFF_55 | | U478 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n21 |
+--->ccs num is 3: | DFF_6 | | U833 | | U844 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n111 |
+--->ccs num is 2: | U541 | | U838 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n201 |
+--->ccs num is 2: | U583 | | U584 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[215]**********
+----->NAME = | n112 |
+--->ccs num is 3: | U753 | | U795 | | U838 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n202 |
+--->ccs num is 2: | U584 | | U804 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[216]**********
+----->NAME = | n23 |
+--->ccs num is 3: | DFF_8 | | U519 | | U779 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n113 |
+--->ccs num is 3: | U490 | | U604 | | U838 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n203 |
+--->ccs num is 2: | U584 | | U816 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[217]**********
+----->NAME = | n24 |
+--->ccs num is 2: | DFF_10 | | U647 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n114 |
+--->ccs num is 3: | U541 | | U622 | | U749 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n204 |
+--->ccs num is 2: | U840 | | U872 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[218]**********
+----->NAME = | G365 |
+--->ccs num is 2: | DFF_30 | | U578 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n115 |
+--->ccs num is 3: | U541 | | U624 | | U755 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n205 |
+--->ccs num is 4: | U572 | | U830 | | U840 | | U842 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[219]**********
+----->NAME = | n26 |
+--->ccs num is 3: | U530 | | U535 | | U590 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n116 |
+--->ccs num is 3: | U541 | | U613 | | U845 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n206 |
+--->ccs num is 2: | U790 | | U840 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[220]**********
+----->NAME = | n27 |
+--->ccs num is 4: | DFF_13 | | U548 | | U701 | | U869 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n117 |
+--->ccs num is 3: | U514 | | U533 | | U870 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n207 |
+--->ccs num is 2: | U763 | | U849 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[221]**********
+----->NAME = | G548 |
+--->ccs num is 2: | DFF_56 | | U481 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n118 |
+--->ccs num is 2: | U533 | | U868 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n208 |
+--->ccs num is 2: | U716 | | U718 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[222]**********
+----->NAME = | G189 |
+--->ccs num is 2: | DFF_14 | | U585 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G459 |
+--->ccs num is 2: | DFF_45 | | U583 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n29 |
+--->ccs num is 4: | DFF_15 | | U609 | | U760 | | U776 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n119 |
+--->ccs num is 2: | U533 | | U869 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n209 |
+--->ccs num is 2: | U716 | | U717 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[223]**********
+
+**********[224]**********
+
+**********[225]**********
+
+**********[226]**********
+
+**********[227]**********
+
+**********[228]**********
+
+**********[229]**********
+
+**********[230]**********
+
+**********[231]**********
+
+**********[232]**********
+
+**********[233]**********
+
+**********[234]**********
+
+**********[235]**********
+
+**********[236]**********
+
+**********[237]**********
+
+**********[238]**********
+
+**********[239]**********
+
+**********[240]**********
+
+**********[241]**********
+
+**********[242]**********
+
+**********[243]**********
+
+**********[244]**********
+
+**********[245]**********
+
+**********[246]**********
+----->NAME = | n30 |
+--->ccs num is 4: | DFF_16 | | U857 | | U863 | | U878 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n120 |
+--->ccs num is 2: | U726 | | U868 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n210 |
+--->ccs num is 4: | U511 | | U543 | | U702 | | U717 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n300 |
+--->ccs num is 2: | U678 | | U679 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[247]**********
+----->NAME = | n121 |
+--->ccs num is 2: | U725 | | U868 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n301 |
+--->ccs num is 2: | U679 | | U681 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[248]**********
+----->NAME = | n32 |
+--->ccs num is 4: | DFF_19 | | U787 | | U789 | | U791 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n122 |
+--->ccs num is 2: | U786 | | U847 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n212 |
+--->ccs num is 2: | U542 | | U544 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n302 |
+--->ccs num is 2: | U653 | | U680 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[249]**********
+----->NAME = | G193 |
+--->ccs num is 2: | DFF_15 | | U850 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G373 |
+--->ccs num is 2: | DFF_31 | | U500 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n33 |
+--->ccs num is 3: | U534 | | U642 | | U775 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n123 |
+--->ccs num is 2: | U739 | | U847 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n213 |
+--->ccs num is 2: | U542 | | U543 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n303 |
+--->ccs num is 2: | U653 | | U654 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[250]**********
+----->NAME = | G464 |
+--->ccs num is 2: | DFF_46 | | U801 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n34 |
+--->ccs num is 5: | DFF_20 | | U512 | | U527 | | U641 | | U792 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n124 |
+--->ccs num is 2: | U847 | | U848 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n214 |
+--->ccs num is 3: | U511 | | U639 | | U661 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n304 |
+--->ccs num is 2: | U633 | | U866 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[251]**********
+----->NAME = | n35 |
+--->ccs num is 3: | DFF_21 | | U512 | | U525 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n125 |
+--->ccs num is 4: | U848 | | U862 | | U881 | | U882 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n215 |
+--->ccs num is 2: | U529 | | U530 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n305 |
+--->ccs num is 2: | U661 | | U662 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[252]**********
+----->NAME = | n126 |
+--->ccs num is 2: | U739 | | U787 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n216 |
+--->ccs num is 2: | U698 | | U700 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n306 |
+--->ccs num is 2: | U661 | | U663 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[253]**********
+----->NAME = | n37 |
+--->ccs num is 2: | U490 | | U769 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n127 |
+--->ccs num is 2: | U739 | | U770 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n217 |
+--->ccs num is 2: | U698 | | U699 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n307 |
+--->ccs num is 2: | U537 | | U661 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[254]**********
+----->NAME = | G198 |
+--->ccs num is 2: | DFF_16 | | U492 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n38 |
+--->ccs num is 6: | DFF_25 | | U510 | | U630 | | U637 | | U654 | | U679 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n128 |
+--->ccs num is 4: | U610 | | U770 | | U771 | | U797 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n218 |
+--->ccs num is 2: | U699 | | U728 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n308 |
+--->ccs num is 2: | U661 | | U664 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[255]**********
+----->NAME = | G379 |
+--->ccs num is 2: | DFF_32 | | U615 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G469 |
+--->ccs num is 2: | DFF_47 | | U853 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n39 |
+--->ccs num is 6: | DFF_26 | | U507 | | U509 | | U637 | | U654 | | U679 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n129 |
+--->ccs num is 2: | U549 | | U551 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n219 |
+--->ccs num is 2: | U699 | | U701 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n309 |
+--->ccs num is 2: | U645 | | U664 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[256]**********
+
+**********[257]**********
+
+**********[258]**********
+
+**********[259]**********
+
+**********[260]**********
+
+**********[261]**********
+
+**********[262]**********
+
+**********[263]**********
+
+**********[264]**********
+
+**********[265]**********
+
+**********[266]**********
+
+**********[267]**********
+
+**********[268]**********
+
+**********[269]**********
+
+**********[270]**********
+
+**********[271]**********
+
+**********[272]**********
+
+**********[273]**********
+
+**********[274]**********
+
+**********[275]**********
+
+**********[276]**********
+
+**********[277]**********
+
+**********[278]**********
+
+**********[279]**********
+----->NAME = | n40 |
+--->ccs num is 5: | DFF_27 | | U506 | | U628 | | U637 | | U679 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n130 |
+--->ccs num is 2: | U549 | | U550 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n220 |
+--->ccs num is 2: | U780 | | U849 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n310 |
+--->ccs num is 2: | U649 | | U664 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n400 |
+--->ccs num is 3: | DFF_18 | | U859 | | U880 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[280]**********
+----->NAME = | n41 |
+--->ccs num is 2: | DFF_28 | | U627 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n131 |
+--->ccs num is 2: | U552 | | U856 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n221 |
+--->ccs num is 5: | U621 | | U758 | | U759 | | U780 | | U781 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n311 |
+--->ccs num is 2: | U651 | | U664 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n401 |
+--->ccs num is 2: | DFF_17 | | U565 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[281]**********
+----->NAME = | n42 |
+--->ccs num is 2: | DFF_30 | | U579 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n132 |
+--->ccs num is 2: | U552 | | U553 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n222 |
+--->ccs num is 2: | U611 | | U612 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n312 |
+--->ccs num is 2: | U652 | | U664 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n402 |
+--->ccs num is 4: | DFF_14 | | U760 | | U776 | | U778 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[282]**********
+----->NAME = | n43 |
+--->ccs num is 3: | DFF_31 | | U501 | | U841 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n133 |
+--->ccs num is 3: | U554 | | U727 | | U762 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n223 |
+--->ccs num is 3: | U582 | | U611 | | U781 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n313 |
+--->ccs num is 2: | U537 | | U539 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n403 |
+--->ccs num is 4: | DFF_7 | | U675 | | U779 | | U836 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[283]**********
+----->NAME = | G384 |
+--->ccs num is 2: | DFF_33 | | U493 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n44 |
+--->ccs num is 3: | DFF_33 | | U494 | | U495 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n134 |
+--->ccs num is 2: | U762 | | U855 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n224 |
+--->ccs num is 3: | U582 | | U612 | | U820 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n314 |
+--->ccs num is 2: | U537 | | U538 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n404 |
+--->ccs num is 3: | DFF_5 | | U861 | | U882 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[284]**********
+----->NAME = | G565 |
+--->ccs num is 2: | DFF_57 | | U713 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n45 |
+--->ccs num is 3: | DFF_34 | | U491 | | U503 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n135 |
+--->ccs num is 2: | U732 | | U733 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n225 |
+--->ccs num is 2: | U582 | | U818 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n315 |
+--->ccs num is 3: | U538 | | U539 | | U540 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n405 |
+--->ccs num is 3: | DFF_2 | | U774 | | U800 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[285]**********
+----->NAME = | n46 |
+--->ccs num is 3: | DFF_36 | | U607 | | U809 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n136 |
+--->ccs num is 2: | U732 | | U734 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n226 |
+--->ccs num is 5: | U621 | | U817 | | U818 | | U820 | | U841 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n316 |
+--->ccs num is 2: | U581 | | U789 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n406 |
+--->ccs num is 3: | DFF_62 | | U724 | | U764 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[286]**********
+----->NAME = | G477 |
+--->ccs num is 2: | DFF_48 | | U831 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G657 |
+--->ccs num is 5: | DFF_64 | | U549 | | U552 | | U741 | | U762 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n47 |
+--->ccs num is 2: | DFF_39 | | U612 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n137 |
+--->ccs num is 2: | U555 | | U556 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n227 |
+--->ccs num is 2: | U566 | | U830 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n317 |
+--->ccs num is 2: | U581 | | U834 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n407 |
+--->ccs num is 3: | DFF_63 | | U721 | | U766 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[287]**********
+----->NAME = | n138 |
+--->ccs num is 2: | U555 | | U557 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n228 |
+--->ccs num is 4: | U566 | | U572 | | U591 | | U809 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n318 |
+--->ccs num is 3: | U765 | | U834 | | U880 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n408 |
+--->ccs num is 2: | DFF_60 | | U593 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[288]**********
+----->NAME = | G569 |
+--->ccs num is 2: | DFF_58 | | U710 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n49 |
+--->ccs num is 3: | U757 | | U792 | | U794 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n139 |
+--->ccs num is 2: | U735 | | U736 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n229 |
+--->ccs num is 2: | U606 | | U607 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n319 |
+--->ccs num is 2: | U563 | | U788 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n409 |
+--->ccs num is 3: | DFF_59 | | U595 | | U670 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[289]**********
+
+**********[290]**********
+
+**********[291]**********
+
+**********[292]**********
+
+**********[293]**********
+
+**********[294]**********
+
+**********[295]**********
+
+**********[296]**********
+
+**********[297]**********
+
+**********[298]**********
+
+**********[299]**********
+
+**********[300]**********
+
+**********[301]**********
+
+**********[302]**********
+
+**********[303]**********
+
+**********[304]**********
+
+**********[305]**********
+
+**********[306]**********
+
+**********[307]**********
+
+**********[308]**********
+
+**********[309]**********
+
+**********[310]**********
+
+**********[311]**********
+
+**********[312]**********
+----->NAME = | n50 |
+--->ccs num is 3: | DFF_42 | | U544 | | U889 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n140 |
+--->ccs num is 2: | U735 | | U737 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n230 |
+--->ccs num is 3: | U591 | | U606 | | U619 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n320 |
+--->ccs num is 2: | U788 | | U859 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n410 |
+--->ccs num is 4: | DFF_58 | | U568 | | U595 | | U646 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[313]**********
+----->NAME = | n51 |
+--->ccs num is 3: | DFF_43 | | U703 | | U717 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n141 |
+--->ccs num is 2: | U719 | | U720 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n231 |
+--->ccs num is 2: | U607 | | U608 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n321 |
+--->ccs num is 4: | U571 | | U854 | | U859 | | U880 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n411 |
+--->ccs num is 4: | DFF_57 | | U568 | | U595 | | U672 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[314]**********
+----->NAME = | G392 |
+--->ccs num is 2: | DFF_34 | | U502 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n52 |
+--->ccs num is 6: | U475 | | U498 | | U514 | | U533 | | U700 | | U878 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n142 |
+--->ccs num is 2: | U719 | | U721 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n232 |
+--->ccs num is 5: | U799 | | U805 | | U806 | | U807 | | U809 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n322 |
+--->ccs num is 2: | U564 | | U854 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n412 |
+--->ccs num is 2: | DFF_51 | | U652 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[315]**********
+----->NAME = | G573 |
+--->ccs num is 2: | DFF_59 | | U707 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G663 |
+--->ccs num is 2: | DFF_65 | | U735 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n53 |
+--->ccs num is 4: | U513 | | U688 | | U692 | | U696 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n143 |
+--->ccs num is 10: | U522 | | U634 | | U705 | | U708 | | U711 | | U714 | | U720 | | U721 | | U723 | | U724 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n233 |
+--->ccs num is 2: | U619 | | U620 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n323 |
+--->ccs num is 2: | U565 | | U854 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n413 |
+--->ccs num is 2: | DFF_50 | | U649 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[316]**********
+----->NAME = | n54 |
+--->ccs num is 3: | U536 | | U544 | | U846 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n144 |
+--->ccs num is 2: | U722 | | U723 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n234 |
+--->ccs num is 2: | U620 | | U806 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n324 |
+--->ccs num is 2: | U492 | | U857 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n414 |
+--->ccs num is 2: | DFF_49 | | U663 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[317]**********
+----->NAME = | n55 |
+--->ccs num is 5: | U522 | | U706 | | U709 | | U712 | | U715 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n145 |
+--->ccs num is 2: | U722 | | U724 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n235 |
+--->ccs num is 2: | U620 | | U805 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n325 |
+--->ccs num is 2: | U492 | | U863 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n415 |
+--->ccs num is 3: | DFF_61 | | U589 | | U600 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[318]**********
+----->NAME = | n146 |
+--->ccs num is 2: | U587 | | U588 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n236 |
+--->ccs num is 2: | U502 | | U503 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n326 |
+--->ccs num is 2: | U609 | | U850 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[319]**********
+----->NAME = | G397 |
+--->ccs num is 2: | DFF_35 | | U619 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G577 |
+--->ccs num is 2: | DFF_60 | | U704 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n147 |
+--->ccs num is 7: | U478 | | U481 | | U484 | | U486 | | U488 | | U587 | | U632 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n237 |
+--->ccs num is 4: | U493 | | U502 | | U570 | | U615 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n327 |
+--->ccs num is 3: | U586 | | U609 | | U782 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n417 |
+--->ccs num is 3: | DFF_41 | | U693 | | U697 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[320]**********
+----->NAME = | n148 |
+--->ccs num is 2: | U588 | | U589 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n238 |
+--->ccs num is 3: | U493 | | U495 | | U503 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n328 |
+--->ccs num is 2: | U585 | | U586 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[321]**********
+----->NAME = | G669 |
+--->ccs num is 2: | DFF_66 | | U555 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n149 |
+--->ccs num is 2: | U589 | | U590 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n239 |
+--->ccs num is 2: | U493 | | U494 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n329 |
+--->ccs num is 2: | U586 | | U778 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[322]**********
+
+**********[323]**********
+
+**********[324]**********
+
+**********[325]**********
+
+**********[326]**********
+
+**********[327]**********
+
+**********[328]**********
+
+**********[329]**********
+
+**********[330]**********
+
+**********[331]**********
+
+**********[332]**********
+
+**********[333]**********
+
+**********[334]**********
+
+**********[335]**********
+
+**********[336]**********
+
+**********[337]**********
+
+**********[338]**********
+
+**********[339]**********
+
+**********[340]**********
+
+**********[341]**********
+
+**********[342]**********
+
+**********[343]**********
+
+**********[344]**********
+
+**********[345]**********
+----->NAME = | n60 |
+--->ccs num is 4: | DFF_48 | | U538 | | U539 | | U858 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n150 |
+--->ccs num is 2: | U704 | | U705 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n240 |
+--->ccs num is 4: | U491 | | U494 | | U495 | | U839 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n330 |
+--->ccs num is 5: | U761 | | U776 | | U778 | | U784 | | U785 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n420 |
+--->ccs num is 2: | DFF_27 | | U653 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[346]**********
+----->NAME = | n61 |
+--->ccs num is 4: | DFF_49 | | U540 | | U662 | | U695 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n151 |
+--->ccs num is 2: | U704 | | U706 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n241 |
+--->ccs num is 2: | U615 | | U616 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n331 |
+--->ccs num is 2: | U785 | | U791 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n421 |
+--->ccs num is 4: | DFF_28 | | U636 | | U653 | | U681 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[347]**********
+----->NAME = | n152 |
+--->ccs num is 2: | U707 | | U708 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n242 |
+--->ccs num is 3: | U491 | | U499 | | U570 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n332 |
+--->ccs num is 2: | U644 | | U771 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n422 |
+--->ccs num is 3: | DFF_70 | | U701 | | U797 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[348]**********
+----->NAME = | n153 |
+--->ccs num is 2: | U707 | | U709 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n243 |
+--->ccs num is 2: | U616 | | U617 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n333 |
+--->ccs num is 2: | U771 | | U860 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[349]**********
+----->NAME = | G494 |
+--->ccs num is 2: | DFF_49 | | U694 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n64 |
+--->ccs num is 2: | U600 | | U601 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n154 |
+--->ccs num is 2: | U710 | | U711 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n244 |
+--->ccs num is 2: | U616 | | U618 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n334 |
+--->ccs num is 2: | U772 | | U851 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n424 |
+--->ccs num is 3: | DFF_69 | | U725 | | U842 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[350]**********
+----->NAME = | G675 |
+--->ccs num is 2: | DFF_67 | | U732 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n155 |
+--->ccs num is 2: | U710 | | U712 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n245 |
+--->ccs num is 2: | U500 | | U501 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n335 |
+--->ccs num is 3: | U814 | | U823 | | U824 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n425 |
+--->ccs num is 11: | DFF_68 | | U866 | | U867 | | U868 | | U874 | | U883 | | U884 | | U885 | | U886 | | U887 | | U890 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[351]**********
+----->NAME = | n66 |
+--->ccs num is 5: | DFF_53 | | U476 | | U487 | | U646 | | U828 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n156 |
+--->ccs num is 2: | U713 | | U714 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n246 |
+--->ccs num is 4: | U500 | | U578 | | U602 | | U817 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n336 |
+--->ccs num is 2: | U647 | | U814 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n426 |
+--->ccs num is 3: | DFF_67 | | U730 | | U786 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[352]**********
+----->NAME = | n157 |
+--->ccs num is 2: | U713 | | U715 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n247 |
+--->ccs num is 3: | U501 | | U578 | | U864 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n337 |
+--->ccs num is 3: | U647 | | U660 | | U821 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[353]**********
+----->NAME = | G498 |
+--->ccs num is 2: | DFF_50 | | U690 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n158 |
+--->ccs num is 2: | U634 | | U635 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n248 |
+--->ccs num is 2: | U578 | | U579 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n338 |
+--->ccs num is 5: | U779 | | U815 | | U819 | | U821 | | U824 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[354]**********
+----->NAME = | n69 |
+--->ccs num is 6: | DFF_56 | | U482 | | U483 | | U568 | | U575 | | U825 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n159 |
+--->ccs num is 9: | U536 | | U583 | | U635 | | U639 | | U718 | | U801 | | U831 | | U853 | | U871 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n249 |
+--->ccs num is 2: | U579 | | U865 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n339 |
+--->ccs num is 2: | U660 | | U819 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[355]**********
+
+**********[356]**********
+
+**********[357]**********
+
+**********[358]**********
+
+**********[359]**********
+
+**********[360]**********
+
+**********[361]**********
+
+**********[362]**********
+
+**********[363]**********
+
+**********[364]**********
+
+**********[365]**********
+
+**********[366]**********
+
+**********[367]**********
+
+**********[368]**********
+
+**********[369]**********
+
+**********[370]**********
+
+**********[371]**********
+
+**********[372]**********
+
+**********[373]**********
+
+**********[374]**********
+
+**********[375]**********
+
+**********[376]**********
+
+**********[377]**********
+
+**********[378]**********
+----->NAME = | G590 |
+--->ccs num is 2: | DFF_61 | | U587 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n160 |
+--->ccs num is 2: | U481 | | U483 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n250 |
+--->ccs num is 4: | U842 | | U864 | | U865 | | U877 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n340 |
+--->ccs num is 2: | U518 | | U519 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n430 |
+--->ccs num is 4: | DFF_55 | | U559 | | U574 | | U594 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[379]**********
+----->NAME = | n161 |
+--->ccs num is 2: | U481 | | U482 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n251 |
+--->ccs num is 2: | U602 | | U603 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n341 |
+--->ccs num is 3: | U519 | | U675 | | U677 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n431 |
+--->ccs num is 4: | DFF_54 | | U559 | | U560 | | U673 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[380]**********
+----->NAME = | G682 |
+--->ccs num is 2: | DFF_68 | | U762 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n72 |
+--->ccs num is 4: | DFF_59 | | U569 | | U673 | | U709 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n162 |
+--->ccs num is 4: | U478 | | U482 | | U483 | | U559 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n252 |
+--->ccs num is 2: | U603 | | U837 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n342 |
+--->ccs num is 2: | U779 | | U783 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n432 |
+--->ccs num is 2: | DFF_53 | | U650 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[381]**********
+----->NAME = | n163 |
+--->ccs num is 2: | U478 | | U479 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n253 |
+--->ccs num is 2: | U603 | | U835 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n343 |
+--->ccs num is 2: | U676 | | U677 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n433 |
+--->ccs num is 3: | DFF_52 | | U561 | | U674 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[382]**********
+----->NAME = | n164 |
+--->ccs num is 3: | U479 | | U484 | | U560 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n254 |
+--->ccs num is 2: | U480 | | U799 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n344 |
+--->ccs num is 2: | U677 | | U836 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n434 |
+--->ccs num is 2: | DFF_48 | | U811 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[383]**********
+----->NAME = | n75 |
+--->ccs num is 3: | U551 | | U554 | | U856 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n165 |
+--->ccs num is 4: | U473 | | U476 | | U559 | | U560 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n255 |
+--->ccs num is 2: | U799 | | U878 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n345 |
+--->ccs num is 3: | U777 | | U783 | | U844 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n435 |
+--->ccs num is 4: | DFF_47 | | U651 | | U811 | | U813 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[384]**********
+----->NAME = | n166 |
+--->ccs num is 2: | U484 | | U485 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n256 |
+--->ccs num is 2: | U600 | | U879 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n346 |
+--->ccs num is 2: | U659 | | U833 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n436 |
+--->ccs num is 2: | DFF_46 | | U645 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[385]**********
+----->NAME = | G687 |
+--->ccs num is 2: | DFF_69 | | U552 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n77 |
+--->ccs num is 4: | DFF_65 | | U556 | | U737 | | U770 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n167 |
+--->ccs num is 2: | U486 | | U487 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n257 |
+--->ccs num is 2: | U573 | | U575 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n347 |
+--->ccs num is 2: | U659 | | U862 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n437 |
+--->ccs num is 4: | DFF_45 | | U662 | | U808 | | U816 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[386]**********
+----->NAME = | n78 |
+--->ccs num is 4: | DFF_66 | | U557 | | U733 | | U787 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n168 |
+--->ccs num is 3: | U487 | | U488 | | U561 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n258 |
+--->ccs num is 2: | U573 | | U593 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n348 |
+--->ccs num is 2: | U643 | | U832 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n438 |
+--->ccs num is 2: | DFF_39 | | U621 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[387]**********
+----->NAME = | n169 |
+--->ccs num is 2: | U488 | | U489 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n259 |
+--->ccs num is 2: | U573 | | U574 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n349 |
+--->ccs num is 2: | U832 | | U861 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n439 |
+--->ccs num is 3: | DFF_38 | | U818 | | U820 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[388]**********
+
+**********[389]**********
+
+**********[390]**********
+
+**********[391]**********
+
+**********[392]**********
+
+**********[393]**********
+
+**********[394]**********
+
+**********[395]**********
+
+**********[396]**********
+
+**********[397]**********
+
+**********[398]**********
+
+**********[399]**********
+
+**********[400]**********
+
+**********[401]**********
+
+**********[402]**********
+
+**********[403]**********
+
+**********[404]**********
+
+**********[405]**********
+
+**********[406]**********
+
+**********[407]**********
+
+**********[408]**********
+
+**********[409]**********
+
+**********[410]**********
+
+**********[411]**********
+----->NAME = | n80 |
+--->ccs num is 15: | DFF_68 | | U625 | | U846 | | U847 | | U855 | | U856 | | U869 | | U870 | | U871 | | U872 | | U873 | | U879 | | U888 | | U889 | | U891 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n170 |
+--->ccs num is 3: | U474 | | U496 | | U561 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n260 |
+--->ccs num is 2: | U573 | | U576 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n350 |
+--->ccs num is 4: | U810 | | U852 | | U861 | | U882 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n440 |
+--->ccs num is 4: | DFF_37 | | U566 | | U572 | | U726 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[412]**********
+----->NAME = | n81 |
+--->ccs num is 8: | DFF_69 | | U499 | | U551 | | U553 | | U635 | | U726 | | U785 | | U790 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n171 |
+--->ccs num is 2: | U496 | | U497 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n261 |
+--->ccs num is 2: | U576 | | U671 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n351 |
+--->ccs num is 2: | U802 | | U852 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[413]**********
+----->NAME = | n82 |
+--->ccs num is 6: | DFF_70 | | U497 | | U550 | | U728 | | U777 | | U783 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n172 |
+--->ccs num is 2: | U496 | | U498 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n262 |
+--->ccs num is 2: | U576 | | U650 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n352 |
+--->ccs num is 4: | U800 | | U802 | | U803 | | U810 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n442 |
+--->ccs num is 4: | DFF_35 | | U608 | | U805 | | U806 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[414]**********
+----->NAME = | G693 |
+--->ccs num is 2: | DFF_70 | | U549 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n83 |
+--->ccs num is 3: | DFF_72 | | U731 | | U848 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n173 |
+--->ccs num is 2: | U498 | | U876 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n263 |
+--->ccs num is 2: | U576 | | U646 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n353 |
+--->ccs num is 2: | U520 | | U521 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[415]**********
+----->NAME = | n84 |
+--->ccs num is 3: | U547 | | U745 | | U887 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n174 |
+--->ccs num is 2: | U761 | | U878 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n264 |
+--->ccs num is 2: | U671 | | U674 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n354 |
+--->ccs num is 3: | U521 | | U642 | | U666 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[416]**********
+----->NAME = | n85 |
+--->ccs num is 3: | U546 | | U746 | | U886 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n175 |
+--->ccs num is 5: | U475 | | U480 | | U497 | | U699 | | U879 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n265 |
+--->ccs num is 2: | U671 | | U672 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n355 |
+--->ccs num is 4: | U767 | | U774 | | U775 | | U800 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n445 |
+--->ccs num is 4: | DFF_32 | | U617 | | U618 | | U839 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[417]**********
+----->NAME = | n86 |
+--->ccs num is 3: | U550 | | U553 | | U743 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n176 |
+--->ccs num is 2: | U497 | | U875 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n266 |
+--->ccs num is 2: | U671 | | U673 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n356 |
+--->ccs num is 2: | U665 | | U666 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n446 |
+--->ccs num is 2: | DFF_30 | | U864 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[418]**********
+----->NAME = | n177 |
+--->ccs num is 5: | U562 | | U610 | | U851 | | U860 | | U875 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n267 |
+--->ccs num is 2: | U670 | | U671 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n357 |
+--->ccs num is 2: | U666 | | U774 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n447 |
+--->ccs num is 5: | DFF_29 | | U835 | | U837 | | U864 | | U865 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[419]**********
+----->NAME = | n178 |
+--->ccs num is 4: | U632 | | U633 | | U648 | | U871 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n268 |
+--->ccs num is 2: | U593 | | U594 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n358 |
+--->ccs num is 3: | U599 | | U604 | | U767 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[420]**********
+----->NAME = | n89 |
+--->ccs num is 3: | U545 | | U744 | | U885 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n179 |
+--->ccs num is 2: | U632 | | U867 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n269 |
+--->ccs num is 2: | U594 | | U595 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n359 |
+--->ccs num is 2: | U767 | | U769 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n449 |
+--->ccs num is 5: | DFF_24 | | U599 | | U605 | | U683 | | U684 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[421]**********
+
+**********[422]**********
+
+**********[423]**********
+
+**********[424]**********
+
+**********[425]**********
+
+**********[426]**********
+
+**********[427]**********
+
+**********[428]**********
+
+**********[429]**********
+
+**********[430]**********
+
+**********[431]**********
+
+**********[432]**********
+
+**********[433]**********
+
+**********[434]**********
+
+**********[435]**********
+
+**********[436]**********
+
+**********[437]**********
+
+**********[438]**********
+
+**********[439]**********
+
+**********[440]**********
+
+**********[441]**********
+
+**********[442]**********
+
+**********[443]**********
+
+**********[444]**********
+----->NAME = | n90 |
+--->ccs num is 3: | U697 | | U748 | | U884 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n180 |
+--->ccs num is 2: | U686 | | U688 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n270 |
+--->ccs num is 3: | U568 | | U575 | | U595 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n360 |
+--->ccs num is 2: | U769 | | U773 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n450 |
+--->ccs num is 4: | DFF_23 | | U592 | | U614 | | U638 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[445]**********
+----->NAME = | n91 |
+--->ccs num is 3: | U693 | | U747 | | U883 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n181 |
+--->ccs num is 2: | U686 | | U687 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n271 |
+--->ccs num is 2: | U568 | | U569 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n361 |
+--->ccs num is 3: | U592 | | U613 | | U773 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n451 |
+--->ccs num is 6: | DFF_22 | | U580 | | U623 | | U638 | | U640 | | U658 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[446]**********
+----->NAME = | n92 |
+--->ccs num is 2: | U528 | | U768 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n182 |
+--->ccs num is 5: | U513 | | U648 | | U687 | | U691 | | U695 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n272 |
+--->ccs num is 2: | U626 | | U628 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n362 |
+--->ccs num is 2: | U773 | | U845 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n452 |
+--->ccs num is 3: | DFF_21 | | U751 | | U752 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[447]**********
+----->NAME = | n93 |
+--->ccs num is 4: | U515 | | U528 | | U535 | | U698 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n183 |
+--->ccs num is 2: | U688 | | U689 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n273 |
+--->ccs num is 2: | U626 | | U627 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n363 |
+--->ccs num is 2: | U504 | | U845 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n453 |
+--->ccs num is 2: | DFF_20 | | U793 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[448]**********
+----->NAME = | n94 |
+--->ccs num is 3: | U764 | | U768 | | U888 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n184 |
+--->ccs num is 2: | U545 | | U688 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n274 |
+--->ccs num is 5: | U472 | | U506 | | U509 | | U627 | | U630 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n364 |
+--->ccs num is 3: | U504 | | U580 | | U622 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n454 |
+--->ccs num is 5: | DFF_40 | | U725 | | U758 | | U759 | | U780 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[449]**********
+----->NAME = | n95 |
+--->ccs num is 3: | U766 | | U768 | | U888 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n185 |
+--->ccs num is 2: | U690 | | U692 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n275 |
+--->ccs num is 5: | U507 | | U510 | | U577 | | U628 | | U631 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n365 |
+--->ccs num is 2: | U504 | | U749 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n455 |
+--->ccs num is 2: | DFF_19 | | U834 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[450]**********
+----->NAME = | n96 |
+--->ccs num is 2: | U729 | | U730 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n186 |
+--->ccs num is 2: | U690 | | U691 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n276 |
+--->ccs num is 2: | U505 | | U507 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n366 |
+--->ccs num is 2: | U749 | | U754 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n456 |
+--->ccs num is 3: | DFF_16 | | U700 | | U876 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[451]**********
+----->NAME = | n97 |
+--->ccs num is 2: | U729 | | U731 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n187 |
+--->ccs num is 2: | U692 | | U693 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n277 |
+--->ccs num is 2: | U505 | | U506 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n367 |
+--->ccs num is 4: | U624 | | U752 | | U756 | | U757 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[452]**********
+----->NAME = | n98 |
+--->ccs num is 5: | U557 | | U731 | | U734 | | U737 | | U738 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n188 |
+--->ccs num is 2: | U546 | | U692 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n278 |
+--->ccs num is 2: | U508 | | U510 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n458 |
+--->ccs num is 4: | DFF_12 | | U610 | | U728 | | U860 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[453]**********
+----->NAME = | n99 |
+--->ccs num is 5: | U556 | | U730 | | U733 | | U736 | | U740 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n189 |
+--->ccs num is 2: | U694 | | U696 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n279 |
+--->ccs num is 2: | U508 | | U509 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n459 |
+--->ccs num is 3: | DFF_11 | | U562 | | U772 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[454]**********
+
+**********[455]**********
+
+**********[456]**********
+
+**********[457]**********
+
+**********[458]**********
+
+**********[459]**********
+
+**********[460]**********
+
+**********[461]**********
+
+**********[462]**********
+
+**********[463]**********
+
+**********[464]**********
+
+**********[465]**********
+
+**********[466]**********
+
+**********[467]**********
+
+**********[468]**********
+
+**********[469]**********
+
+**********[470]**********
+
+**********[471]**********
+
+**********[472]**********
+
+**********[473]**********
+
+**********[474]**********
+
+**********[475]**********
+
+**********[476]**********
+
+**********[477]**********
+----->NAME = | n190 |
+--->ccs num is 2: | U694 | | U695 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n280 |
+--->ccs num is 2: | U629 | | U631 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n370 |
+--->ccs num is 2: | U792 | | U795 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n460 |
+--->ccs num is 2: | DFF_10 | | U824 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[478]**********
+----->NAME = | n191 |
+--->ccs num is 2: | U696 | | U697 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n281 |
+--->ccs num is 2: | U629 | | U630 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n371 |
+--->ccs num is 2: | U793 | | U795 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n461 |
+--->ccs num is 4: | DFF_9 | | U819 | | U821 | | U824 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[479]**********
+----->NAME = | n192 |
+--->ccs num is 2: | U547 | | U696 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n282 |
+--->ccs num is 3: | U472 | | U499 | | U577 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n372 |
+--->ccs num is 3: | U793 | | U794 | | U796 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[480]**********
+----->NAME = | n193 |
+--->ccs num is 2: | U811 | | U831 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n283 |
+--->ccs num is 4: | U571 | | U797 | | U839 | | U843 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n373 |
+--->ccs num is 2: | U796 | | U829 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n463 |
+--->ccs num is 3: | DFF_6 | | U848 | | U862 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[481]**********
+----->NAME = | n194 |
+--->ccs num is 2: | U831 | | U858 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n284 |
+--->ccs num is 6: | U523 | | U526 | | U633 | | U655 | | U657 | | U682 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n374 |
+--->ccs num is 2: | U796 | | U887 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n464 |
+--->ccs num is 3: | DFF_4 | | U802 | | U810 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[482]**********
+----->NAME = | n195 |
+--->ccs num is 3: | U813 | | U853 | | U858 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n285 |
+--->ccs num is 2: | U682 | | U683 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n375 |
+--->ccs num is 6: | U825 | | U826 | | U827 | | U828 | | U829 | | U888 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[483]**********
+----->NAME = | n196 |
+--->ccs num is 4: | U798 | | U811 | | U812 | | U813 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n286 |
+--->ccs num is 2: | U682 | | U684 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n376 |
+--->ccs num is 2: | U624 | | U751 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n466 |
+--->ccs num is 3: | DFF_0 | | U669 | | U678 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[484]**********
+----->NAME = | n197 |
+--->ccs num is 2: | U477 | | U853 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n287 |
+--->ccs num is 3: | U638 | | U655 | | U685 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n377 |
+--->ccs num is 3: | U750 | | U751 | | U752 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n467 |
+--->ccs num is 4: | DFF_50 | | U540 | | U645 | | U691 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[485]**********
+----->NAME = | n198 |
+--->ccs num is 2: | U567 | | U801 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n288 |
+--->ccs num is 2: | U655 | | U656 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n378 |
+--->ccs num is 2: | U750 | | U828 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n468 |
+--->ccs num is 4: | DFF_46 | | U567 | | U649 | | U798 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[486]**********
+----->NAME = | G109 |
+--->ccs num is 2: | DFF_2 | | U665 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n199 |
+--->ccs num is 2: | U567 | | U808 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n289 |
+--->ccs num is 3: | U640 | | U656 | | U657 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n379 |
+--->ccs num is 2: | U750 | | U886 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n469 |
+--->ccs num is 5: | DFF_52 | | U476 | | U489 | | U672 | | U829 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[487]**********
+
+**********[488]**********
+
+**********[489]**********
+
+**********[490]**********
+
+**********[491]**********
+
+**********[492]**********
+
+**********[493]**********
+
+**********[494]**********
+
+**********[495]**********
+
+**********[496]**********
+
+**********[497]**********
+
+**********[498]**********
+
+**********[499]**********
+
+**********[500]**********
+
+**********[501]**********
+
+**********[502]**********
+
+**********[503]**********
+
+**********[504]**********
+
+**********[505]**********
+
+**********[506]**********
+
+**********[507]**********
+
+**********[508]**********
+
+**********[509]**********
+
+**********[510]**********
+----->NAME = | n290 |
+--->ccs num is 5: | U512 | | U524 | | U638 | | U640 | | U658 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n380 |
+--->ccs num is 2: | U622 | | U623 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n470 |
+--->ccs num is 4: | DFF_54 | | U485 | | U670 | | U827 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[511]**********
+----->NAME = | n291 |
+--->ccs num is 2: | U657 | | U658 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n381 |
+--->ccs num is 3: | U580 | | U598 | | U623 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n471 |
+--->ccs num is 3: | DFF_55 | | U479 | | U826 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[512]**********
+----->NAME = | G22 |
+--->ccs num is 2: | DFF_0 | | U680 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n292 |
+--->ccs num is 2: | U523 | | U525 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n382 |
+--->ccs num is 2: | U598 | | U827 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n472 |
+--->ccs num is 4: | DFF_51 | | U540 | | U651 | | U687 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[513]**********
+----->NAME = | G23 |
+--->ccs num is 2: | DFF_1 | | U668 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G113 |
+--->ccs num is 2: | DFF_3 | | U520 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n293 |
+--->ccs num is 3: | U525 | | U526 | | U641 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n383 |
+--->ccs num is 2: | U598 | | U885 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n473 |
+--->ccs num is 4: | DFF_60 | | U569 | | U574 | | U706 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[514]**********
+----->NAME = | n294 |
+--->ccs num is 4: | U512 | | U527 | | U636 | | U641 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n384 |
+--->ccs num is 2: | U613 | | U614 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n474 |
+--->ccs num is 3: | DFF_57 | | U674 | | U715 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[515]**********
+----->NAME = | n295 |
+--->ccs num is 2: | U526 | | U527 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n385 |
+--->ccs num is 3: | U592 | | U597 | | U614 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n475 |
+--->ccs num is 3: | DFF_58 | | U650 | | U712 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[516]**********
+----->NAME = | n296 |
+--->ccs num is 2: | U636 | | U637 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n386 |
+--->ccs num is 2: | U597 | | U826 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n476 |
+--->ccs num is 3: | DFF_47 | | U477 | | U652 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[517]**********
+----->NAME = | n297 |
+--->ccs num is 2: | U667 | | U668 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n387 |
+--->ccs num is 2: | U597 | | U884 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n477 |
+--->ccs num is 2: | DFF_17 | | U571 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[518]**********
+----->NAME = | G118 |
+--->ccs num is 2: | DFF_4 | | U852 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G208 |
+--->ccs num is 2: | DFF_17 | | U564 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n298 |
+--->ccs num is 2: | U667 | | U669 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n388 |
+--->ccs num is 2: | U604 | | U605 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n478 |
+--->ccs num is 7: | DFF_41 | | U530 | | U543 | | U545 | | U546 | | U547 | | U689 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[519]**********
+----->NAME = | n299 |
+--->ccs num is 2: | U678 | | U680 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n389 |
+--->ccs num is 3: | U596 | | U599 | | U605 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n479 |
+--->ccs num is 5: | DFF_64 | | U550 | | U553 | | U727 | | U855 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[520]**********
+
+**********[521]**********
+
+**********[522]**********
+
+**********[523]**********
+
+**********[524]**********
+
+**********[525]**********
+
+**********[526]**********
+
+**********[527]**********
+
+
+
+----------Ios Array----------
+Number of ios: 25
+**********[0]**********
+----->NAME = | G0 -- 0 |
+--->ccs num is 1: | U745 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[1]**********
+----->NAME = | G1 -- 0 |
+--->ccs num is 1: | U746 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[2]**********
+----->NAME = | G2 -- 0 |
+--->ccs num is 1: | U744 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G726 -- 1 |
+--->ccs num is 1: | DFF_71 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[3]**********
+----->NAME = | G3 -- 0 |
+--->ccs num is 1: | U748 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G727 -- 1 |
+--->ccs num is 1: | U846 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[4]**********
+----->NAME = | G4 -- 0 |
+--->ccs num is 1: | U747 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[5]**********
+----->NAME = | G5 -- 0 |
+--->ccs num is 2: | U689 | | U873 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G729 -- 1 |
+--->ccs num is 1: | DFF_73 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[6]**********
+----->NAME = | G10 -- 0 |
+--->ccs num is 3: | U723 | | U727 | | U743 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G6 -- 0 |
+--->ccs num is 2: | U714 | | U870 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[7]**********
+----->NAME = | G11 -- 0 |
+--->ccs num is 3: | U720 | | U738 | | U740 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G7 -- 0 |
+--->ccs num is 2: | U711 | | U866 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G701BF -- 1 |
+--->ccs num is 3: | U653 | | U668 | | U742 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G702 -- 1 |
+--->ccs num is 1: | U847 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[8]**********
+----->NAME = | GND -- 0 |
+--->ccs num is 0: 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G12 -- 0 |
+--->ccs num is 1: | U631 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G8 -- 0 |
+--->ccs num is 3: | U708 | | U890 | | U891 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[9]**********
+----->NAME = | G13 -- 0 |
+--->ccs num is 1: | U741 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G9 -- 0 |
+--->ccs num is 2: | U705 | | U867 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[10]**********
+----->NAME = | G14 -- 0 |
+--->ccs num is 13: | U558 | | U570 | | U577 | | U591 | | U634 | | U639 | | U648 | | U703 | | U740 | | U741 | | U781 | | U817 | | U892 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[11]**********
+----->NAME = | G15 -- 0 |
+--->ccs num is 3: | U669 | | U681 | | U742 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[12]**********
+----->NAME = | G16 -- 0 |
+--->ccs num is 1: | U600 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[13]**********
+----->NAME = | VDD -- 0 |
+--->ccs num is 0: 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[14]**********
+
+**********[15]**********
+
+**********[16]**********
+
+**********[17]**********
+
+**********[18]**********
+
+**********[19]**********
+
+**********[20]**********
+----->NAME = | CK -- 0 |
+--->ccs num is 74: | DFF_0 | | DFF_1 | | DFF_2 | | DFF_3 | | DFF_4 | | DFF_5 | | DFF_6 | | DFF_7 | | DFF_8 | | DFF_9 | | DFF_10 | | DFF_11 | | DFF_12 | | DFF_13 | | DFF_14 | | DFF_15 | | DFF_16 | | DFF_17 | | DFF_18 | | DFF_19 | | DFF_20 | | DFF_21 | | DFF_22 | | DFF_23 | | DFF_24 | | DFF_25 | | DFF_26 | | DFF_27 | | DFF_28 | | DFF_29 | | DFF_30 | | DFF_31 | | DFF_32 | | DFF_33 | | DFF_34 | | DFF_35 | | DFF_36 | | DFF_37 | | DFF_38 | | DFF_39 | | DFF_40 | | DFF_41 | | DFF_42 | | DFF_43 | | DFF_44 | | DFF_45 | | DFF_46 | | DFF_47 | | DFF_48 | | DFF_49 | | DFF_50 | | DFF_51 | | DFF_52 | | DFF_53 | | DFF_54 | | DFF_55 | | DFF_56 | | DFF_57 | | DFF_58 | | DFF_59 | | DFF_60 | | DFF_61 | | DFF_62 | | DFF_63 | | DFF_64 | | DFF_65 | | DFF_66 | | DFF_67 | | DFF_69 | | DFF_70 | | DFF_71 | | DFF_72 | | DFF_73 | | DFF_68 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[21]**********
+
+**********[22]**********
+
+**********[23]**********
+
+**********[24]**********
+
+
+
+----------Gates Array----------
+Number of gates: 11
+**********[0]***********
+-----> NAME = | DFF_X1 | 
+--->pins num is 4: | D | | CK | | Q | | QN | 
+
+**********[1]***********
+-----> NAME = | NOR2_X1 | 
+--->pins num is 3: | A1 | | A2 | | ZN | 
+
+**********[2]***********
+-----> NAME = | INV_X1 | 
+--->pins num is 2: | A | | ZN | 
+
+**********[3]***********
+-----> NAME = | NAND3_X1 | 
+--->pins num is 4: | A1 | | A2 | | A3 | | ZN | 
+
+**********[4]***********
+-----> NAME = | NOR3_X1 | 
+--->pins num is 4: | A1 | | A2 | | A3 | | ZN | 
+
+**********[5]***********
+-----> NAME = | NAND2_X1 | 
+--->pins num is 3: | A1 | | A2 | | ZN | 
+
+**********[6]***********
+-----> NAME = | AND2_X1 | 
+--->pins num is 3: | A1 | | A2 | | ZN | 
+
+**********[7]***********
+-----> NAME = | NOR4_X1 | 
+--->pins num is 5: | A1 | | A2 | | A3 | | A4 | | ZN | 
+
+**********[8]***********
+-----> NAME = | OR2_X1 | 
+--->pins num is 3: | A1 | | A2 | | ZN | 
+
+**********[9]***********
+-----> NAME = | NAND4_X1 | 
+--->pins num is 5: | A1 | | A2 | | A3 | | A4 | | ZN | 
+
+**********[10]***********
+-----> NAME = | AND3_X1 | 
+--->pins num is 4: | A1 | | A2 | | A3 | | ZN | 
+
+
+
+----------Components Array----------
+Number of components: 495
+**********[0]**********
+**********[1]**********
+**********[2]**********
+**********[3]**********
+**********[4]**********
+**********[5]**********
+**********[6]**********
+**********[7]**********
+**********[8]**********
+**********[9]**********
+**********[10]**********
+**********[11]**********
+**********[12]**********
+**********[13]**********
+**********[14]**********
+**********[15]**********
+----->NAME = | DFF_50 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G498 | |io =  CK | | wire = n467 | | wire = n413 | 
+
+----->NAME = | U480 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n16 | | wire = n175 | | wire = n254 | 
+
+----->NAME = | U550 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n82 | | wire = n479 | | wire = n86 | | wire = n130 | 
+
+----->NAME = | U620 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n234 | | wire = n235 | | wire = n233 | 
+
+**********[16]**********
+----->NAME = | DFF_51 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G503 | |io =  CK | | wire = n472 | | wire = n412 | 
+
+----->NAME = | U481 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n147 | | wire = n160 | | wire = n161 | | wire = G548 | 
+
+----->NAME = | U551 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n75 | | wire = n81 | | wire = n129 | 
+
+----->NAME = | U621 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n226 | | wire = n438 | | wire = n221 | 
+
+**********[17]**********
+----->NAME = | DFF_52 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G526 | |io =  CK | | wire = n469 | | wire = n433 | 
+
+----->NAME = | U482 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n69 | | wire = n162 | | wire = n161 | 
+
+----->NAME = | U552 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n131 | | wire = n132 | | wire = G657 | | wire = G687 | 
+
+----->NAME = | U622 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n380 | | wire = n364 | | wire = n114 | 
+
+**********[18]**********
+----->NAME = | DFF_53 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G531 | |io =  CK | | wire = n66 | | wire = n432 | 
+
+----->NAME = | U483 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n162 | | wire = n69 | | wire = n160 | 
+
+----->NAME = | U553 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n81 | | wire = n479 | | wire = n86 | | wire = n132 | 
+
+----->NAME = | U623 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n381 | | wire = n451 | | wire = n380 | 
+
+**********[19]**********
+----->NAME = | DFF_54 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G536 | |io =  CK | | wire = n470 | | wire = n431 | 
+
+----->NAME = | U484 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n147 | | wire = n166 | | wire = n164 | | wire = G536 | 
+
+----->NAME = | U554 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n133 | | wire = n75 | 
+
+----->NAME = | U624 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n376 | | wire = n367 | | wire = n115 | 
+
+**********[20]**********
+----->NAME = | DFF_55 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G541 | |io =  CK | | wire = n471 | | wire = n430 | 
+
+----->NAME = | U485 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n12 | | wire = n470 | | wire = n166 | 
+
+----->NAME = | U555 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n137 | | wire = n138 | | wire = G669 | 
+
+----->NAME = | U625 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n399 | | wire = n80 | | wire = n392 | 
+
+**********[21]**********
+----->NAME = | DFF_56 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G548 | |io =  CK | | wire = n69 | | - | 
+
+----->NAME = | U486 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n147 | | wire = n12 | | wire = n167 | | wire = G531 | 
+
+----->NAME = | U556 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n99 | | wire = n77 | | wire = n137 | 
+
+----->NAME = | U626 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n272 | | wire = n273 | | wire = G321 | 
+
+**********[22]**********
+----->NAME = | DFF_57 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G565 | |io =  CK | | wire = n474 | | wire = n411 | 
+
+----->NAME = | U487 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n168 | | wire = n66 | | wire = n167 | 
+
+----->NAME = | U557 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n98 | | wire = n78 | | wire = n138 | 
+
+----->NAME = | U627 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n274 | | wire = n41 | | wire = n273 | 
+
+**********[23]**********
+----->NAME = | DFF_58 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G569 | |io =  CK | | wire = n475 | | wire = n410 | 
+
+----->NAME = | U488 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n147 | | wire = n169 | | wire = n168 | | wire = G526 | 
+
+----->NAME = | U558 | 
+---> Gate type: INV_X1
+--->pins num is 2: |io =  G14 | | wire = n497 | 
+
+----->NAME = | U628 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n275 | | wire = n40 | | wire = n272 | 
+
+**********[24]**********
+----->NAME = | DFF_59 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G573 | |io =  CK | | wire = n72 | | wire = n409 | 
+
+----->NAME = | U489 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n13 | | wire = n469 | | wire = n169 | 
+
+----->NAME = | U559 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n431 | | wire = n430 | | wire = n165 | | wire = n162 | 
+
+----->NAME = | U629 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n280 | | wire = n281 | | wire = G303 | 
+
+**********[25]**********
+**********[26]**********
+**********[27]**********
+**********[28]**********
+**********[29]**********
+**********[30]**********
+**********[31]**********
+**********[32]**********
+**********[33]**********
+**********[34]**********
+**********[35]**********
+**********[36]**********
+**********[37]**********
+**********[38]**********
+**********[39]**********
+**********[40]**********
+**********[41]**********
+**********[42]**********
+**********[43]**********
+**********[44]**********
+**********[45]**********
+**********[46]**********
+**********[47]**********
+**********[48]**********
+----->NAME = | DFF_60 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G577 | |io =  CK | | wire = n473 | | wire = n408 | 
+
+----->NAME = | U490 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n113 | | wire = n37 | 
+
+----->NAME = | U560 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n431 | | wire = n165 | | wire = n164 | 
+
+----->NAME = | U630 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n274 | | wire = n38 | | wire = n281 | 
+
+----->NAME = | U700 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n456 | | wire = n52 | | wire = n216 | 
+
+**********[49]**********
+----->NAME = | DFF_61 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G590 | |io =  CK | | wire = n481 | | wire = n415 | 
+
+----->NAME = | U491 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n240 | | wire = n45 | | wire = n242 | 
+
+----->NAME = | U561 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n433 | | wire = n170 | | wire = n168 | 
+
+----->NAME = | U631 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G12 | | wire = n275 | | wire = n280 | 
+
+----->NAME = | U701 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n422 | | wire = n27 | | wire = n219 | 
+
+**********[50]**********
+----->NAME = | DFF_62 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G608 | |io =  CK | | - | | wire = n406 | 
+
+----->NAME = | U492 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n496 | | wire = n324 | | wire = n325 | | wire = G198 | 
+
+----->NAME = | U562 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n459 | | wire = n17 | | wire = n177 | 
+
+----->NAME = | U632 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n178 | | wire = n179 | | wire = n147 | 
+
+----->NAME = | U702 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n210 | | wire = n486 | | wire = G447 | 
+
+**********[51]**********
+----->NAME = | DFF_63 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G613 | |io =  CK | | - | | wire = n407 | 
+
+----->NAME = | U493 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n237 | | wire = n238 | | wire = n239 | | wire = G384 | 
+
+----->NAME = | U563 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n319 | | wire = n497 | | wire = G214 | 
+
+----->NAME = | U633 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n178 | | wire = n304 | | wire = n284 | 
+
+----->NAME = | U703 | 
+---> Gate type: AND2_X1
+--->pins num is 3: |io =  G14 | | wire = n51 | | wire = n486 | 
+
+**********[52]**********
+----->NAME = | DFF_64 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G657 | |io =  CK | | wire = n479 | | - | 
+
+----->NAME = | U494 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n240 | | wire = n44 | | wire = n239 | 
+
+----->NAME = | U564 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n322 | | wire = n497 | | wire = G208 | 
+
+----->NAME = | U634 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G14 | | wire = n158 | | wire = n143 | 
+
+----->NAME = | U704 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n150 | | wire = n151 | | wire = G577 | 
+
+**********[53]**********
+----->NAME = | DFF_65 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G663 | |io =  CK | | wire = n77 | | - | 
+
+----->NAME = | U495 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n240 | | wire = n44 | | wire = n238 | 
+
+----->NAME = | U565 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n401 | | wire = n16 | | wire = n323 | 
+
+----->NAME = | U635 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n159 | | wire = n81 | | wire = n158 | 
+
+----->NAME = | U705 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G9 | | wire = n143 | | wire = n150 | 
+
+**********[54]**********
+----->NAME = | DFF_66 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G669 | |io =  CK | | wire = n78 | | - | 
+
+----->NAME = | U496 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n171 | | wire = n110 | | wire = n172 | | wire = n170 | 
+
+----->NAME = | U566 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n228 | | wire = n440 | | wire = n227 | 
+
+----->NAME = | U636 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = G328 | | wire = n421 | | wire = n296 | | wire = n294 | 
+
+----->NAME = | U706 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n55 | | wire = n473 | | wire = n151 | 
+
+**********[55]**********
+----->NAME = | DFF_67 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G675 | |io =  CK | | wire = n485 | | wire = n426 | 
+
+----->NAME = | U497 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n175 | | wire = n82 | | wire = n176 | | wire = n171 | 
+
+----->NAME = | U567 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n199 | | wire = n468 | | wire = n198 | 
+
+----->NAME = | U637 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n40 | | wire = n38 | | wire = n39 | | wire = n296 | 
+
+----->NAME = | U707 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n152 | | wire = n153 | | wire = G573 | 
+
+**********[56]**********
+----->NAME = | DFF_68 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G682 | |io =  CK | | wire = n80 | | wire = n425 | 
+
+----->NAME = | U498 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n52 | | wire = n173 | | wire = n172 | 
+
+----->NAME = | U568 | 
+---> Gate type: NAND4_X1
+--->pins num is 5: | wire = n411 | | wire = n69 | | wire = n410 | | wire = n271 | | wire = n270 | 
+
+----->NAME = | U638 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n451 | | wire = n450 | | wire = n290 | | wire = n287 | 
+
+----->NAME = | U708 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G8 | | wire = n143 | | wire = n152 | 
+
+**********[57]**********
+----->NAME = | DFF_69 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G687 | |io =  CK | | wire = n81 | | wire = n424 | 
+
+----->NAME = | U499 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n81 | | wire = n242 | | wire = n282 | 
+
+----->NAME = | U569 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n72 | | wire = n473 | | wire = n271 | 
+
+----->NAME = | U639 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G14 | | wire = n214 | | wire = n159 | 
+
+----->NAME = | U709 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n55 | | wire = n72 | | wire = n153 | 
+
+**********[58]**********
+**********[59]**********
+**********[60]**********
+**********[61]**********
+**********[62]**********
+**********[63]**********
+**********[64]**********
+**********[65]**********
+**********[66]**********
+**********[67]**********
+**********[68]**********
+**********[69]**********
+**********[70]**********
+**********[71]**********
+**********[72]**********
+**********[73]**********
+**********[74]**********
+**********[75]**********
+**********[76]**********
+**********[77]**********
+**********[78]**********
+**********[79]**********
+**********[80]**********
+**********[81]**********
+----->NAME = | DFF_70 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G693 | |io =  CK | | wire = n82 | | wire = n422 | 
+
+----->NAME = | U570 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G14 | | wire = n242 | | wire = n237 | 
+
+----->NAME = | U640 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n451 | | wire = n290 | | wire = n289 | 
+
+----->NAME = | U710 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n154 | | wire = n155 | | wire = G569 | 
+
+**********[82]**********
+----->NAME = | DFF_71 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G705 | |io =  CK | |io =  G726 | | - | 
+
+----->NAME = | U571 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n283 | | wire = n477 | | wire = n321 | 
+
+----->NAME = | U641 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n34 | | wire = n294 | | wire = n293 | 
+
+----->NAME = | U711 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G7 | | wire = n143 | | wire = n154 | 
+
+**********[83]**********
+----->NAME = | DFF_72 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G707 | |io =  CK | | wire = n83 | | wire = n396 | 
+
+----->NAME = | U572 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n228 | | wire = n440 | | wire = n205 | 
+
+----->NAME = | U642 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n33 | | wire = n19 | | wire = n354 | 
+
+----->NAME = | U712 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n55 | | wire = n475 | | wire = n155 | 
+
+**********[84]**********
+----->NAME = | DFF_73 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G713 | |io =  CK | |io =  G729 | | - | 
+
+----->NAME = | U573 | 
+---> Gate type: NAND4_X1
+--->pins num is 5: | wire = n257 | | wire = n258 | | wire = n259 | | wire = n260 | | wire = n110 | 
+
+----->NAME = | U643 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n348 | | wire = n497 | | wire = G125 | 
+
+----->NAME = | U713 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n156 | | wire = n157 | | wire = G565 | 
+
+**********[85]**********
+----->NAME = | U574 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n430 | | wire = n473 | | wire = n259 | 
+
+----->NAME = | U644 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n332 | | wire = n497 | | wire = G166 | 
+
+----->NAME = | U714 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G6 | | wire = n143 | | wire = n156 | 
+
+**********[86]**********
+----->NAME = | U575 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n270 | | wire = n69 | | wire = n257 | 
+
+----->NAME = | U645 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n436 | | wire = n467 | | wire = n309 | 
+
+----->NAME = | U715 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n55 | | wire = n474 | | wire = n157 | 
+
+**********[87]**********
+----->NAME = | U576 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n261 | | wire = n262 | | wire = n263 | | wire = n260 | 
+
+----->NAME = | U646 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n410 | | wire = n66 | | wire = n263 | 
+
+----->NAME = | U716 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n208 | | wire = n209 | | wire = G451 | 
+
+**********[88]**********
+----->NAME = | U577 | 
+---> Gate type: AND2_X1
+--->pins num is 3: |io =  G14 | | wire = n282 | | wire = n275 | 
+
+----->NAME = | U647 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n337 | | wire = n24 | | wire = n336 | 
+
+----->NAME = | U717 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n210 | | wire = n51 | | wire = n209 | 
+
+**********[89]**********
+----->NAME = | U578 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n246 | | wire = n247 | | wire = n248 | | wire = G365 | 
+
+----->NAME = | U648 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G14 | | wire = n178 | | wire = n182 | 
+
+----->NAME = | U718 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n159 | | wire = n398 | | wire = n208 | 
+
+**********[90]**********
+----->NAME = | U579 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n249 | | wire = n42 | | wire = n248 | 
+
+----->NAME = | U649 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n413 | | wire = n468 | | wire = n310 | 
+
+----->NAME = | U719 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n141 | | wire = n142 | | wire = G613 | 
+
+**********[91]**********
+**********[92]**********
+**********[93]**********
+**********[94]**********
+**********[95]**********
+**********[96]**********
+**********[97]**********
+**********[98]**********
+**********[99]**********
+**********[100]**********
+**********[101]**********
+**********[102]**********
+**********[103]**********
+**********[104]**********
+**********[105]**********
+**********[106]**********
+**********[107]**********
+**********[108]**********
+**********[109]**********
+**********[110]**********
+**********[111]**********
+**********[112]**********
+**********[113]**********
+**********[114]**********
+----->NAME = | DFF_0 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = n466 | |io =  CK | | wire = G22 | | - | 
+
+----->NAME = | U580 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n451 | | wire = n381 | | wire = n364 | 
+
+----->NAME = | U650 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n432 | | wire = n475 | | wire = n262 | 
+
+----->NAME = | U720 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G11 | | wire = n143 | | wire = n141 | 
+
+**********[115]**********
+----->NAME = | DFF_1 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G328 | |io =  CK | | wire = G23 | | - | 
+
+----->NAME = | U581 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n496 | | wire = n316 | | wire = n317 | | wire = G218 | 
+
+----->NAME = | U651 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n435 | | wire = n472 | | wire = n311 | 
+
+----->NAME = | U721 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n143 | | wire = n407 | | wire = n142 | 
+
+**********[116]**********
+----->NAME = | DFF_2 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G109 | |io =  CK | | wire = n19 | | wire = n405 | 
+
+----->NAME = | U582 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n223 | | wire = n225 | | wire = n224 | | wire = G416 | 
+
+----->NAME = | U652 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n412 | | wire = n476 | | wire = n312 | 
+
+----->NAME = | U722 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n144 | | wire = n145 | | wire = G608 | 
+
+**********[117]**********
+----->NAME = | DFF_3 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G113 | |io =  CK | | wire = n20 | | - | 
+
+----->NAME = | U583 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n201 | | wire = n159 | | wire = G459 | 
+
+----->NAME = | U653 | 
+---> Gate type: NAND4_X1
+--->pins num is 5: | wire = n421 | |io =  G701BF | | wire = n420 | | wire = n303 | | wire = n302 | 
+
+----->NAME = | U723 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G10 | | wire = n143 | | wire = n144 | 
+
+**********[118]**********
+----->NAME = | DFF_4 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G118 | |io =  CK | | - | | wire = n464 | 
+
+----->NAME = | U584 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n202 | | wire = n203 | | wire = n201 | 
+
+----->NAME = | U654 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n39 | | wire = n38 | | wire = n303 | 
+
+----->NAME = | U724 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n143 | | wire = n406 | | wire = n145 | 
+
+**********[119]**********
+----->NAME = | DFF_5 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G125 | |io =  CK | | - | | wire = n404 | 
+
+----->NAME = | U585 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n328 | | wire = n497 | | wire = G189 | 
+
+----->NAME = | U655 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n284 | | wire = n287 | | wire = n288 | | wire = G252 | 
+
+----->NAME = | U725 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n424 | | wire = n454 | | wire = n121 | 
+
+**********[120]**********
+----->NAME = | DFF_6 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G129 | |io =  CK | | wire = n21 | | wire = n463 | 
+
+----->NAME = | U586 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n327 | | wire = n329 | | wire = n328 | 
+
+----->NAME = | U656 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n289 | | wire = n483 | | wire = n288 | 
+
+----->NAME = | U726 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n440 | | wire = n81 | | wire = n120 | 
+
+**********[121]**********
+----->NAME = | DFF_7 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G140 | |io =  CK | | - | | wire = n403 | 
+
+----->NAME = | U587 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n146 | | wire = n147 | | wire = G590 | 
+
+----->NAME = | U657 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n284 | | wire = n291 | | wire = n289 | | wire = G247 | 
+
+----->NAME = | U727 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G10 | | wire = n479 | | wire = n133 | 
+
+**********[122]**********
+----->NAME = | DFF_8 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G144 | |io =  CK | | wire = n23 | | - | 
+
+----->NAME = | U588 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n148 | | wire = n13 | | wire = n146 | 
+
+----->NAME = | U658 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n290 | | wire = n451 | | wire = n291 | 
+
+----->NAME = | U728 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n458 | | wire = n82 | | wire = n218 | 
+
+**********[123]**********
+----->NAME = | DFF_9 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G149 | |io =  CK | | - | | wire = n461 | 
+
+----->NAME = | U589 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n415 | | wire = n149 | | wire = n148 | 
+
+----->NAME = | U659 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n496 | | wire = n346 | | wire = n347 | | wire = G129 | 
+
+----->NAME = | U729 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n96 | | wire = n97 | | wire = G707 | 
+
+**********[124]**********
+**********[125]**********
+**********[126]**********
+**********[127]**********
+**********[128]**********
+**********[129]**********
+**********[130]**********
+**********[131]**********
+**********[132]**********
+**********[133]**********
+**********[134]**********
+**********[135]**********
+**********[136]**********
+**********[137]**********
+**********[138]**********
+**********[139]**********
+**********[140]**********
+**********[141]**********
+**********[142]**********
+**********[143]**********
+**********[144]**********
+**********[145]**********
+**********[146]**********
+**********[147]**********
+----->NAME = | U590 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n26 | | wire = n110 | | wire = n149 | 
+
+----->NAME = | U660 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n496 | | wire = n339 | | wire = n337 | | wire = G149 | 
+
+----->NAME = | U730 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n426 | | wire = n99 | | wire = n96 | 
+
+----->NAME = | U800 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n355 | | wire = n20 | | wire = n405 | | wire = n352 | 
+
+**********[148]**********
+----->NAME = | U591 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G14 | | wire = n228 | | wire = n230 | 
+
+----->NAME = | U661 | 
+---> Gate type: NAND4_X1
+--->pins num is 5: | wire = n305 | | wire = n306 | | wire = n307 | | wire = n308 | | wire = n214 | 
+
+----->NAME = | U731 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n98 | | wire = n83 | | wire = n97 | 
+
+----->NAME = | U801 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n159 | | wire = n8 | | wire = n198 | | wire = G464 | 
+
+**********[149]**********
+----->NAME = | U592 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n450 | | wire = n385 | | wire = n361 | 
+
+----->NAME = | U662 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n437 | | wire = n61 | | wire = n305 | 
+
+----->NAME = | U732 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n135 | | wire = n136 | | wire = G675 | 
+
+----->NAME = | U802 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n352 | | wire = n464 | | wire = n351 | 
+
+**********[150]**********
+----->NAME = | U593 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n408 | | wire = n268 | | wire = n258 | 
+
+----->NAME = | U663 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n414 | | wire = n480 | | wire = n306 | 
+
+----->NAME = | U733 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n99 | | wire = n78 | | wire = n135 | 
+
+----->NAME = | U803 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n352 | | wire = n4 | 
+
+**********[151]**********
+----->NAME = | U594 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n430 | | wire = n269 | | wire = n268 | 
+
+----->NAME = | U664 | 
+---> Gate type: NOR4_X1
+--->pins num is 5: | wire = n309 | | wire = n310 | | wire = n311 | | wire = n312 | | wire = n308 | 
+
+----->NAME = | U734 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n98 | | wire = n485 | | wire = n136 | 
+
+----->NAME = | U804 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n7 | | wire = n480 | | wire = n202 | 
+
+**********[152]**********
+----->NAME = | U595 | 
+---> Gate type: NAND4_X1
+--->pins num is 5: | wire = n409 | | wire = n410 | | wire = n411 | | wire = n270 | | wire = n269 | 
+
+----->NAME = | U665 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n356 | | wire = n497 | | wire = G109 | 
+
+----->NAME = | U735 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n139 | | wire = n140 | | wire = G663 | 
+
+----->NAME = | U805 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n442 | | wire = n232 | | wire = n235 | 
+
+**********[153]**********
+----->NAME = | U596 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n390 | | wire = n391 | | wire = n389 | 
+
+----->NAME = | U666 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n354 | | wire = n357 | | wire = n356 | 
+
+----->NAME = | U736 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n396 | | wire = n99 | | wire = n139 | 
+
+----->NAME = | U806 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n232 | | wire = n442 | | wire = n234 | 
+
+**********[154]**********
+----->NAME = | U597 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n386 | | wire = n387 | | wire = n385 | 
+
+----->NAME = | U667 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n297 | | wire = n298 | | wire = G328 | 
+
+----->NAME = | U737 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n98 | | wire = n77 | | wire = n140 | 
+
+----->NAME = | U807 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n232 | | wire = n11 | 
+
+**********[155]**********
+----->NAME = | U598 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n382 | | wire = n383 | | wire = n381 | 
+
+----->NAME = | U668 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G701BF | | wire = G23 | | wire = n297 | 
+
+----->NAME = | U738 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n497 | |io =  G11 | | wire = n98 | 
+
+----->NAME = | U808 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n437 | | wire = n7 | | wire = n199 | 
+
+**********[156]**********
+----->NAME = | U599 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n449 | | wire = n389 | | wire = n358 | 
+
+----->NAME = | U669 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n466 | |io =  G15 | | wire = n298 | 
+
+----->NAME = | U739 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n126 | | wire = n127 | | wire = n123 | 
+
+----->NAME = | U809 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n232 | | wire = n46 | | wire = n228 | 
+
+**********[157]**********
+**********[158]**********
+**********[159]**********
+**********[160]**********
+**********[161]**********
+**********[162]**********
+**********[163]**********
+**********[164]**********
+**********[165]**********
+**********[166]**********
+**********[167]**********
+**********[168]**********
+**********[169]**********
+**********[170]**********
+**********[171]**********
+**********[172]**********
+**********[173]**********
+**********[174]**********
+**********[175]**********
+**********[176]**********
+**********[177]**********
+**********[178]**********
+**********[179]**********
+**********[180]**********
+----->NAME = | U670 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n409 | | wire = n470 | | wire = n267 | 
+
+----->NAME = | U740 | 
+---> Gate type: AND2_X1
+--->pins num is 3: |io =  G11 | |io =  G14 | | wire = n99 | 
+
+----->NAME = | U810 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n464 | | wire = n352 | | wire = n350 | 
+
+**********[181]**********
+----->NAME = | U671 | 
+---> Gate type: NAND4_X1
+--->pins num is 5: | wire = n264 | | wire = n265 | | wire = n266 | | wire = n267 | | wire = n261 | 
+
+----->NAME = | U741 | 
+---> Gate type: AND2_X1
+--->pins num is 3: |io =  G13 | |io =  G14 | | wire = G657 | 
+
+----->NAME = | U811 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n196 | | wire = n434 | | wire = n435 | | wire = n193 | 
+
+**********[182]**********
+----->NAME = | U672 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n411 | | wire = n469 | | wire = n265 | 
+
+----->NAME = | U742 | 
+---> Gate type: INV_X1
+--->pins num is 2: |io =  G15 | |io =  G701BF | 
+
+----->NAME = | U812 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n196 | | wire = n8 | 
+
+**********[183]**********
+----->NAME = | U673 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n431 | | wire = n72 | | wire = n266 | 
+
+----->NAME = | U743 | 
+---> Gate type: INV_X1
+--->pins num is 2: |io =  G10 | | wire = n86 | 
+
+----->NAME = | U813 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n435 | | wire = n196 | | wire = n195 | 
+
+**********[184]**********
+----->NAME = | U674 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n433 | | wire = n474 | | wire = n264 | 
+
+----->NAME = | U744 | 
+---> Gate type: INV_X1
+--->pins num is 2: |io =  G2 | | wire = n89 | 
+
+----->NAME = | U814 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n496 | | wire = n335 | | wire = n336 | | wire = G154 | 
+
+**********[185]**********
+----->NAME = | U675 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n494 | | wire = n403 | | wire = n341 | 
+
+----->NAME = | U745 | 
+---> Gate type: INV_X1
+--->pins num is 2: |io =  G0 | | wire = n84 | 
+
+----->NAME = | U815 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n338 | | wire = n6 | 
+
+**********[186]**********
+----->NAME = | U676 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n343 | | wire = n497 | | wire = G140 | 
+
+----->NAME = | U746 | 
+---> Gate type: INV_X1
+--->pins num is 2: |io =  G1 | | wire = n85 | 
+
+----->NAME = | U816 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n437 | | wire = n200 | | wire = n203 | 
+
+**********[187]**********
+----->NAME = | U677 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n341 | | wire = n344 | | wire = n343 | 
+
+----->NAME = | U747 | 
+---> Gate type: INV_X1
+--->pins num is 2: |io =  G4 | | wire = n91 | 
+
+----->NAME = | U817 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G14 | | wire = n226 | | wire = n246 | 
+
+**********[188]**********
+----->NAME = | U678 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n299 | | wire = n300 | | wire = n466 | 
+
+----->NAME = | U748 | 
+---> Gate type: INV_X1
+--->pins num is 2: |io =  G3 | | wire = n90 | 
+
+----->NAME = | U818 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n226 | | wire = n439 | | wire = n225 | 
+
+**********[189]**********
+----->NAME = | U679 | 
+---> Gate type: NAND4_X1
+--->pins num is 5: | wire = n39 | | wire = n38 | | wire = n40 | | wire = n301 | | wire = n300 | 
+
+----->NAME = | U749 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n114 | | wire = n366 | | wire = n365 | 
+
+----->NAME = | U819 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n338 | | wire = n461 | | wire = n339 | 
+
+**********[190]**********
+**********[191]**********
+**********[192]**********
+**********[193]**********
+**********[194]**********
+**********[195]**********
+**********[196]**********
+**********[197]**********
+**********[198]**********
+**********[199]**********
+**********[200]**********
+**********[201]**********
+**********[202]**********
+**********[203]**********
+**********[204]**********
+**********[205]**********
+**********[206]**********
+**********[207]**********
+**********[208]**********
+**********[209]**********
+**********[210]**********
+**********[211]**********
+**********[212]**********
+**********[213]**********
+----->NAME = | U680 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = G22 | | wire = n302 | | wire = n299 | 
+
+----->NAME = | U750 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n378 | | wire = n379 | | wire = n377 | 
+
+----->NAME = | U820 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n439 | | wire = n226 | | wire = n224 | 
+
+**********[214]**********
+----->NAME = | U681 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n421 | |io =  G15 | | wire = n301 | 
+
+----->NAME = | U751 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n377 | | wire = n452 | | wire = n376 | 
+
+----->NAME = | U821 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n461 | | wire = n338 | | wire = n337 | 
+
+**********[215]**********
+----->NAME = | U682 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n284 | | wire = n285 | | wire = n286 | | wire = G260 | 
+
+----->NAME = | U752 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n452 | | wire = n377 | | wire = n367 | 
+
+----->NAME = | U822 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n200 | | wire = n7 | 
+
+**********[216]**********
+----->NAME = | U683 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n3 | | wire = n449 | | wire = n285 | 
+
+----->NAME = | U753 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n112 | | wire = n490 | | wire = n487 | 
+
+----->NAME = | U823 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n335 | | wire = n17 | 
+
+**********[217]**********
+----->NAME = | U684 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n449 | | wire = n3 | | wire = n286 | 
+
+----->NAME = | U754 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n487 | | wire = n488 | | wire = n366 | 
+
+----->NAME = | U824 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n461 | | wire = n460 | | wire = n338 | | wire = n335 | 
+
+**********[218]**********
+----->NAME = | U685 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n287 | | wire = n3 | 
+
+----->NAME = | U755 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n489 | | wire = n115 | | wire = n488 | 
+
+----->NAME = | U825 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n375 | | wire = n69 | | wire = n390 | 
+
+**********[219]**********
+----->NAME = | U686 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n180 | | wire = n181 | | wire = G503 | 
+
+----->NAME = | U756 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n367 | | wire = n489 | 
+
+----->NAME = | U826 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n375 | | wire = n471 | | wire = n386 | 
+
+**********[220]**********
+----->NAME = | U687 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n472 | | wire = n182 | | wire = n181 | 
+
+----->NAME = | U757 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n49 | | wire = n367 | | wire = n490 | 
+
+----->NAME = | U827 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n375 | | wire = n470 | | wire = n382 | 
+
+**********[221]**********
+----->NAME = | U688 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n183 | | wire = n53 | | wire = n184 | | wire = n180 | 
+
+----->NAME = | U758 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n221 | | wire = n454 | | wire = n491 | 
+
+----->NAME = | U828 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n375 | | wire = n66 | | wire = n378 | 
+
+**********[222]**********
+----->NAME = | U689 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n478 | |io =  G5 | | wire = n183 | 
+
+----->NAME = | U759 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n221 | | wire = n454 | | wire = n495 | 
+
+----->NAME = | U829 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n375 | | wire = n469 | | wire = n373 | 
+
+**********[223]**********
+**********[224]**********
+**********[225]**********
+**********[226]**********
+**********[227]**********
+**********[228]**********
+**********[229]**********
+**********[230]**********
+**********[231]**********
+**********[232]**********
+**********[233]**********
+**********[234]**********
+**********[235]**********
+**********[236]**********
+**********[237]**********
+**********[238]**********
+**********[239]**********
+**********[240]**********
+**********[241]**********
+**********[242]**********
+**********[243]**********
+**********[244]**********
+**********[245]**********
+**********[246]**********
+----->NAME = | U690 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n185 | | wire = n186 | | wire = G498 | 
+
+----->NAME = | U760 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n29 | | wire = n402 | | wire = n492 | 
+
+----->NAME = | U830 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n497 | | wire = n205 | | wire = n227 | | wire = G408 | 
+
+**********[247]**********
+----->NAME = | U691 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n467 | | wire = n182 | | wire = n186 | 
+
+----->NAME = | U761 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n330 | | wire = n492 | | wire = n174 | 
+
+----->NAME = | U831 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n159 | | wire = n193 | | wire = n194 | | wire = G477 | 
+
+**********[248]**********
+----->NAME = | U692 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n187 | | wire = n53 | | wire = n188 | | wire = n185 | 
+
+----->NAME = | U762 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n134 | | wire = n133 | | wire = G657 | | wire = G682 | 
+
+----->NAME = | U832 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n349 | | wire = n18 | | wire = n348 | 
+
+**********[249]**********
+----->NAME = | U693 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n417 | | wire = n91 | | wire = n187 | 
+
+----->NAME = | U763 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n491 | | wire = n207 | 
+
+----->NAME = | U833 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n18 | | wire = n21 | | wire = n346 | 
+
+**********[250]**********
+----->NAME = | U694 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n189 | | wire = n190 | | wire = G494 | 
+
+----->NAME = | U764 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n394 | | wire = n395 | | wire = n406 | | wire = n94 | 
+
+----->NAME = | U834 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n455 | | wire = n318 | | wire = n317 | 
+
+**********[251]**********
+----->NAME = | U695 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n61 | | wire = n182 | | wire = n190 | 
+
+----->NAME = | U765 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n318 | | wire = n15 | 
+
+----->NAME = | U835 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n447 | | wire = n10 | | wire = n253 | 
+
+**********[252]**********
+----->NAME = | U696 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n191 | | wire = n53 | | wire = n192 | | wire = n189 | 
+
+----->NAME = | U766 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n392 | | wire = n393 | | wire = n407 | | wire = n95 | 
+
+----->NAME = | U836 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n403 | | wire = n494 | | wire = n344 | 
+
+**********[253]**********
+----->NAME = | U697 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n417 | | wire = n90 | | wire = n191 | 
+
+----->NAME = | U767 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n358 | | wire = n359 | | wire = n355 | 
+
+----->NAME = | U837 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n10 | | wire = n447 | | wire = n252 | 
+
+**********[254]**********
+----->NAME = | U698 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n216 | | wire = n217 | | wire = n93 | 
+
+----->NAME = | U768 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n94 | | wire = n481 | | wire = n95 | | wire = n92 | 
+
+----->NAME = | U838 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n111 | | wire = n112 | | wire = n113 | | wire = n106 | 
+
+**********[255]**********
+----->NAME = | U699 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n218 | | wire = n175 | | wire = n219 | | wire = n217 | 
+
+----->NAME = | U769 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n37 | | wire = n360 | | wire = n359 | 
+
+----->NAME = | U839 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n283 | | wire = n445 | | wire = n240 | 
+
+**********[256]**********
+**********[257]**********
+**********[258]**********
+**********[259]**********
+**********[260]**********
+**********[261]**********
+**********[262]**********
+**********[263]**********
+**********[264]**********
+**********[265]**********
+**********[266]**********
+**********[267]**********
+**********[268]**********
+**********[269]**********
+**********[270]**********
+**********[271]**********
+**********[272]**********
+**********[273]**********
+**********[274]**********
+**********[275]**********
+**********[276]**********
+**********[277]**********
+**********[278]**********
+**********[279]**********
+----->NAME = | U770 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n128 | | wire = n77 | | wire = n127 | 
+
+----->NAME = | U840 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n205 | | wire = n206 | | wire = n204 | 
+
+**********[280]**********
+----->NAME = | U771 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n333 | | wire = n128 | | wire = n332 | 
+
+----->NAME = | U841 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n10 | | wire = n43 | | wire = n226 | 
+
+**********[281]**********
+----->NAME = | U772 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n17 | | wire = n459 | | wire = n334 | 
+
+----->NAME = | U842 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n424 | | wire = n205 | | wire = n250 | 
+
+**********[282]**********
+----->NAME = | U773 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n361 | | wire = n362 | | wire = n360 | 
+
+----->NAME = | U843 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n283 | | wire = n16 | 
+
+**********[283]**********
+----->NAME = | U774 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n405 | | wire = n355 | | wire = n357 | 
+
+----->NAME = | U844 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n18 | | wire = n21 | | wire = n345 | 
+
+**********[284]**********
+----->NAME = | U775 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n355 | | wire = n33 | 
+
+----->NAME = | U845 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n116 | | wire = n363 | | wire = n362 | 
+
+**********[285]**********
+----->NAME = | U776 | 
+---> Gate type: AND3_X1
+--->pins num is 4: | wire = n330 | | wire = n29 | | wire = n402 | | wire = n493 | 
+
+----->NAME = | U846 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n54 | | wire = n80 | |io =  G727 | 
+
+**********[286]**********
+----->NAME = | U777 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n82 | | wire = n345 | | wire = n494 | 
+
+----->NAME = | U847 | 
+---> Gate type: NOR4_X1
+--->pins num is 5: | wire = n122 | | wire = n123 | | wire = n124 | | wire = n80 | |io =  G702 | 
+
+**********[287]**********
+----->NAME = | U778 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n402 | | wire = n330 | | wire = n329 | 
+
+----->NAME = | U848 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n83 | | wire = n463 | | wire = n125 | | wire = n124 | 
+
+**********[288]**********
+----->NAME = | U779 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n342 | | wire = n23 | | wire = n403 | | wire = n338 | 
+
+----->NAME = | U849 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n496 | | wire = n207 | | wire = n220 | | wire = G427 | 
+
+**********[289]**********
+**********[290]**********
+**********[291]**********
+**********[292]**********
+**********[293]**********
+**********[294]**********
+**********[295]**********
+**********[296]**********
+**********[297]**********
+**********[298]**********
+**********[299]**********
+**********[300]**********
+**********[301]**********
+**********[302]**********
+**********[303]**********
+**********[304]**********
+**********[305]**********
+**********[306]**********
+**********[307]**********
+**********[308]**********
+**********[309]**********
+**********[310]**********
+**********[311]**********
+**********[312]**********
+----->NAME = | U780 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n221 | | wire = n454 | | wire = n220 | 
+
+----->NAME = | U850 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n496 | | wire = n493 | | wire = n326 | | wire = G193 | 
+
+**********[313]**********
+----->NAME = | U781 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G14 | | wire = n221 | | wire = n223 | 
+
+----->NAME = | U851 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n496 | | wire = n334 | | wire = n177 | | wire = G159 | 
+
+**********[314]**********
+----->NAME = | U782 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n14 | | wire = n484 | | wire = n327 | 
+
+----->NAME = | U852 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n496 | | wire = n351 | | wire = n350 | | wire = G118 | 
+
+**********[315]**********
+----->NAME = | U783 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n82 | | wire = n345 | | wire = n342 | 
+
+----->NAME = | U853 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n159 | | wire = n197 | | wire = n195 | | wire = G469 | 
+
+**********[316]**********
+----->NAME = | U784 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n330 | | wire = n14 | 
+
+----->NAME = | U854 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n321 | | wire = n323 | | wire = n322 | 
+
+**********[317]**********
+----->NAME = | U785 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n81 | | wire = n331 | | wire = n330 | 
+
+----->NAME = | U855 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n80 | | wire = n479 | | wire = n134 | 
+
+**********[318]**********
+----->NAME = | U786 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n426 | | wire = n491 | | wire = n122 | 
+
+----->NAME = | U856 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n75 | | wire = n80 | | wire = n131 | 
+
+**********[319]**********
+----->NAME = | U787 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n32 | | wire = n78 | | wire = n15 | | wire = n126 | 
+
+----->NAME = | U857 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n493 | | wire = n30 | | wire = n324 | 
+
+**********[320]**********
+----->NAME = | U788 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n320 | | wire = n15 | | wire = n319 | 
+
+----->NAME = | U858 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n195 | | wire = n60 | | wire = n194 | 
+
+**********[321]**********
+----->NAME = | U789 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n15 | | wire = n32 | | wire = n316 | 
+
+----->NAME = | U859 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n400 | | wire = n321 | | wire = n320 | 
+
+**********[322]**********
+**********[323]**********
+**********[324]**********
+**********[325]**********
+**********[326]**********
+**********[327]**********
+**********[328]**********
+**********[329]**********
+**********[330]**********
+**********[331]**********
+**********[332]**********
+**********[333]**********
+**********[334]**********
+**********[335]**********
+**********[336]**********
+**********[337]**********
+**********[338]**********
+**********[339]**********
+**********[340]**********
+**********[341]**********
+**********[342]**********
+**********[343]**********
+**********[344]**********
+**********[345]**********
+----->NAME = | U500 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n245 | | wire = n246 | | wire = G373 | 
+
+----->NAME = | U790 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n81 | | wire = n495 | | wire = n206 | 
+
+----->NAME = | U860 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n458 | | wire = n177 | | wire = n333 | 
+
+**********[346]**********
+----->NAME = | U501 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n247 | | wire = n43 | | wire = n245 | 
+
+----->NAME = | U791 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n15 | | wire = n32 | | wire = n331 | 
+
+----->NAME = | U861 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n404 | | wire = n350 | | wire = n349 | 
+
+**********[347]**********
+----->NAME = | U502 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n236 | | wire = n237 | | wire = G392 | 
+
+----->NAME = | U792 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n49 | | wire = n34 | | wire = n370 | 
+
+----->NAME = | U862 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n463 | | wire = n125 | | wire = n347 | 
+
+**********[348]**********
+----->NAME = | U503 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n238 | | wire = n45 | | wire = n236 | 
+
+----->NAME = | U793 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n453 | | wire = n372 | | wire = n371 | 
+
+----->NAME = | U863 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n30 | | wire = n493 | | wire = n325 | 
+
+**********[349]**********
+----->NAME = | U504 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n364 | | wire = n365 | | wire = n363 | 
+
+----->NAME = | U794 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n372 | | wire = n49 | 
+
+----->NAME = | U864 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n447 | | wire = n446 | | wire = n250 | | wire = n247 | 
+
+**********[350]**********
+----->NAME = | U505 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n276 | | wire = n277 | | wire = G315 | 
+
+----->NAME = | U795 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n370 | | wire = n371 | | wire = n112 | 
+
+----->NAME = | U865 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n447 | | wire = n250 | | wire = n249 | 
+
+**********[351]**********
+----->NAME = | U506 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n274 | | wire = n40 | | wire = n277 | 
+
+----->NAME = | U796 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n373 | | wire = n374 | | wire = n372 | 
+
+----->NAME = | U866 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G7 | | wire = n425 | | wire = n304 | 
+
+**********[352]**********
+----->NAME = | U507 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n275 | | wire = n39 | | wire = n276 | 
+
+----->NAME = | U797 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n422 | | wire = n128 | | wire = n283 | 
+
+----->NAME = | U867 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G9 | | wire = n425 | | wire = n179 | 
+
+**********[353]**********
+----->NAME = | U508 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n278 | | wire = n279 | | wire = G309 | 
+
+----->NAME = | U798 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n480 | | wire = n468 | | wire = n200 | | wire = n196 | 
+
+----->NAME = | U868 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n120 | | wire = n425 | | wire = n121 | | wire = n118 | 
+
+**********[354]**********
+----->NAME = | U509 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n274 | | wire = n39 | | wire = n279 | 
+
+----->NAME = | U799 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n254 | | wire = n255 | | wire = n232 | 
+
+----->NAME = | U869 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n80 | | wire = n27 | | wire = n119 | 
+
+**********[355]**********
+**********[356]**********
+**********[357]**********
+**********[358]**********
+**********[359]**********
+**********[360]**********
+**********[361]**********
+**********[362]**********
+**********[363]**********
+**********[364]**********
+**********[365]**********
+**********[366]**********
+**********[367]**********
+**********[368]**********
+**********[369]**********
+**********[370]**********
+**********[371]**********
+**********[372]**********
+**********[373]**********
+**********[374]**********
+**********[375]**********
+**********[376]**********
+**********[377]**********
+**********[378]**********
+----->NAME = | DFF_10 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G154 | |io =  CK | | wire = n24 | | wire = n460 | 
+
+----->NAME = | U510 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n275 | | wire = n38 | | wire = n278 | 
+
+----->NAME = | U870 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n80 | |io =  G6 | | wire = n117 | 
+
+**********[379]**********
+----->NAME = | DFF_11 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G159 | |io =  CK | | - | | wire = n459 | 
+
+----->NAME = | U511 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n214 | | wire = n497 | | wire = n210 | 
+
+----->NAME = | U871 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n159 | | wire = n80 | | wire = n178 | 
+
+**********[380]**********
+----->NAME = | DFF_12 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G166 | |io =  CK | | wire = n482 | | wire = n458 | 
+
+----->NAME = | U512 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n34 | | wire = n35 | | wire = n294 | | wire = n290 | 
+
+----->NAME = | U872 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n80 | | wire = n204 | | wire = n200 | 
+
+**********[381]**********
+----->NAME = | DFF_13 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G175 | |io =  CK | | wire = n27 | | - | 
+
+----->NAME = | U513 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n182 | | wire = n53 | 
+
+----->NAME = | U873 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: |io =  G5 | | wire = n80 | | wire = n108 | 
+
+**********[382]**********
+----->NAME = | DFF_14 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G189 | |io =  CK | | wire = n484 | | wire = n402 | 
+
+----->NAME = | U514 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n52 | | wire = n117 | | wire = n103 | 
+
+----->NAME = | U874 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n481 | | wire = n425 | | wire = n110 | | wire = n109 | 
+
+**********[383]**********
+----->NAME = | DFF_15 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G193 | |io =  CK | | wire = n29 | | - | 
+
+----->NAME = | U515 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n105 | | wire = n93 | | wire = n104 | 
+
+----->NAME = | U875 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n177 | | wire = n482 | | wire = n176 | 
+
+**********[384]**********
+----->NAME = | DFF_16 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G198 | |io =  CK | | wire = n30 | | wire = n456 | 
+
+----->NAME = | U516 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n106 | | wire = n107 | | wire = n105 | 
+
+----->NAME = | U876 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n493 | | wire = n456 | | wire = n173 | 
+
+**********[385]**********
+----->NAME = | DFF_17 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G208 | |io =  CK | | wire = n477 | | wire = n401 | 
+
+----->NAME = | U517 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n108 | | wire = n109 | | wire = n107 | 
+
+----->NAME = | U877 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n250 | | wire = n10 | 
+
+**********[386]**********
+----->NAME = | DFF_18 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G214 | |io =  CK | | - | | wire = n400 | 
+
+----->NAME = | U518 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n496 | | wire = n6 | | wire = n340 | | wire = G144 | 
+
+----->NAME = | U878 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n52 | | wire = n30 | | wire = n174 | | wire = n255 | 
+
+**********[387]**********
+----->NAME = | DFF_19 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G218 | |io =  CK | | wire = n32 | | wire = n455 | 
+
+----->NAME = | U519 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n341 | | wire = n23 | | wire = n340 | 
+
+----->NAME = | U879 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n80 | | wire = n256 | | wire = n175 | 
+
+**********[388]**********
+**********[389]**********
+**********[390]**********
+**********[391]**********
+**********[392]**********
+**********[393]**********
+**********[394]**********
+**********[395]**********
+**********[396]**********
+**********[397]**********
+**********[398]**********
+**********[399]**********
+**********[400]**********
+**********[401]**********
+**********[402]**********
+**********[403]**********
+**********[404]**********
+**********[405]**********
+**********[406]**********
+**********[407]**********
+**********[408]**********
+**********[409]**********
+**********[410]**********
+**********[411]**********
+----->NAME = | DFF_20 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G237 | |io =  CK | | wire = n34 | | wire = n453 | 
+
+----->NAME = | U520 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n496 | | wire = n4 | | wire = n353 | | wire = G113 | 
+
+----->NAME = | U880 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n400 | | wire = n321 | | wire = n318 | 
+
+**********[412]**********
+----->NAME = | DFF_21 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G242 | |io =  CK | | wire = n35 | | wire = n452 | 
+
+----->NAME = | U521 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n354 | | wire = n20 | | wire = n353 | 
+
+----->NAME = | U881 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n125 | | wire = n18 | 
+
+**********[413]**********
+----->NAME = | DFF_22 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G247 | |io =  CK | | - | | wire = n451 | 
+
+----->NAME = | U522 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n143 | | wire = n55 | 
+
+----->NAME = | U882 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n404 | | wire = n350 | | wire = n125 | 
+
+**********[414]**********
+----->NAME = | DFF_23 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G252 | |io =  CK | | wire = n483 | | wire = n450 | 
+
+----->NAME = | U523 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n284 | | wire = n2 | | wire = n292 | | wire = G242 | 
+
+----->NAME = | U883 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n425 | | wire = n91 | | wire = n391 | 
+
+**********[415]**********
+----->NAME = | DFF_24 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G260 | |io =  CK | | - | | wire = n449 | 
+
+----->NAME = | U524 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n290 | | wire = n2 | 
+
+----->NAME = | U884 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n425 | | wire = n90 | | wire = n387 | 
+
+**********[416]**********
+----->NAME = | DFF_25 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G303 | |io =  CK | | wire = n38 | | - | 
+
+----->NAME = | U525 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n293 | | wire = n35 | | wire = n292 | 
+
+----->NAME = | U885 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n425 | | wire = n89 | | wire = n383 | 
+
+**********[417]**********
+----->NAME = | DFF_26 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G309 | |io =  CK | | wire = n39 | | - | 
+
+----->NAME = | U526 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n284 | | wire = n295 | | wire = n293 | | wire = G237 | 
+
+----->NAME = | U886 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n425 | | wire = n85 | | wire = n379 | 
+
+**********[418]**********
+----->NAME = | DFF_27 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G315 | |io =  CK | | wire = n40 | | wire = n420 | 
+
+----->NAME = | U527 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n294 | | wire = n34 | | wire = n295 | 
+
+----->NAME = | U887 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n425 | | wire = n84 | | wire = n374 | 
+
+**********[419]**********
+----->NAME = | DFF_28 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G321 | |io =  CK | | wire = n41 | | wire = n421 | 
+
+----->NAME = | U528 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n92 | | wire = n497 | | wire = n93 | | wire = G713 | 
+
+----->NAME = | U888 | 
+---> Gate type: AND3_X1
+--->pins num is 4: | wire = n94 | | wire = n80 | | wire = n95 | | wire = n375 | 
+
+**********[420]**********
+----->NAME = | DFF_29 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G360 | |io =  CK | | - | | wire = n447 | 
+
+----->NAME = | U529 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n215 | | wire = n497 | | wire = G438 | 
+
+----->NAME = | U889 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n80 | | wire = n50 | | wire = n394 | 
+
+**********[421]**********
+**********[422]**********
+**********[423]**********
+**********[424]**********
+**********[425]**********
+**********[426]**********
+**********[427]**********
+**********[428]**********
+**********[429]**********
+**********[430]**********
+**********[431]**********
+**********[432]**********
+**********[433]**********
+**********[434]**********
+**********[435]**********
+**********[436]**********
+**********[437]**********
+**********[438]**********
+**********[439]**********
+**********[440]**********
+**********[441]**********
+**********[442]**********
+**********[443]**********
+**********[444]**********
+----->NAME = | DFF_30 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G365 | |io =  CK | | wire = n42 | | wire = n446 | 
+
+----->NAME = | U530 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n26 | | wire = n478 | | wire = n215 | 
+
+----->NAME = | U600 | 
+---> Gate type: NAND4_X1
+--->pins num is 5: | wire = n398 | | wire = n415 | |io =  G16 | | wire = n64 | | wire = n256 | 
+
+----->NAME = | U890 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: |io =  G8 | | wire = n425 | | wire = n393 | 
+
+**********[445]**********
+----->NAME = | DFF_31 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G373 | |io =  CK | | wire = n43 | | - | 
+
+----->NAME = | U531 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n100 | | wire = n496 | | wire = G705 | 
+
+----->NAME = | U601 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n110 | | wire = n64 | 
+
+----->NAME = | U891 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n80 | |io =  G8 | | wire = n395 | 
+
+**********[446]**********
+----->NAME = | DFF_32 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G379 | |io =  CK | | - | | wire = n445 | 
+
+----->NAME = | U532 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n101 | | wire = n102 | | wire = n100 | 
+
+----->NAME = | U602 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n251 | | wire = n246 | | wire = G360 | 
+
+----->NAME = | U892 | 
+---> Gate type: INV_X1
+--->pins num is 2: |io =  G14 | | wire = n496 | 
+
+**********[447]**********
+----->NAME = | DFF_33 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G384 | |io =  CK | | wire = n44 | | - | 
+
+----->NAME = | U533 | 
+---> Gate type: NOR4_X1
+--->pins num is 5: | wire = n52 | | wire = n117 | | wire = n118 | | wire = n119 | | wire = n101 | 
+
+----->NAME = | U603 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n252 | | wire = n253 | | wire = n251 | 
+
+**********[448]**********
+----->NAME = | DFF_34 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G392 | |io =  CK | | wire = n45 | | - | 
+
+----->NAME = | U534 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n103 | | wire = n33 | | wire = n104 | | wire = n102 | 
+
+----->NAME = | U604 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n388 | | wire = n358 | | wire = n113 | 
+
+**********[449]**********
+----->NAME = | DFF_35 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G397 | |io =  CK | | - | | wire = n442 | 
+
+----->NAME = | U535 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n93 | | wire = n26 | 
+
+----->NAME = | U605 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n389 | | wire = n449 | | wire = n388 | 
+
+**********[450]**********
+----->NAME = | DFF_36 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G405 | |io =  CK | | wire = n46 | | - | 
+
+----->NAME = | U536 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n159 | | wire = n54 | 
+
+----->NAME = | U606 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n229 | | wire = n230 | | wire = G405 | 
+
+**********[451]**********
+----->NAME = | DFF_37 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G408 | |io =  CK | | - | | wire = n440 | 
+
+----->NAME = | U537 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n313 | | wire = n314 | | wire = n307 | 
+
+----->NAME = | U607 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n231 | | wire = n46 | | wire = n229 | 
+
+**********[452]**********
+----->NAME = | DFF_38 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G416 | |io =  CK | | - | | wire = n439 | 
+
+----->NAME = | U538 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n60 | | wire = n315 | | wire = n314 | 
+
+----->NAME = | U608 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n442 | | wire = n11 | | wire = n231 | 
+
+**********[453]**********
+----->NAME = | DFF_39 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G424 | |io =  CK | | wire = n47 | | wire = n438 | 
+
+----->NAME = | U539 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n315 | | wire = n60 | | wire = n313 | 
+
+----->NAME = | U609 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n327 | | wire = n29 | | wire = n326 | 
+
+**********[454]**********
+**********[455]**********
+**********[456]**********
+**********[457]**********
+**********[458]**********
+**********[459]**********
+**********[460]**********
+**********[461]**********
+**********[462]**********
+**********[463]**********
+**********[464]**********
+**********[465]**********
+**********[466]**********
+**********[467]**********
+**********[468]**********
+**********[469]**********
+**********[470]**********
+**********[471]**********
+**********[472]**********
+**********[473]**********
+**********[474]**********
+**********[475]**********
+**********[476]**********
+**********[477]**********
+----->NAME = | DFF_40 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G427 | |io =  CK | | - | | wire = n454 | 
+
+----->NAME = | U540 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n467 | | wire = n61 | | wire = n472 | | wire = n315 | 
+
+----->NAME = | U610 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n177 | | wire = n458 | | wire = n128 | 
+
+**********[478]**********
+----->NAME = | DFF_41 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G438 | |io =  CK | | wire = n478 | | wire = n417 | 
+
+----->NAME = | U541 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n114 | | wire = n115 | | wire = n116 | | wire = n111 | 
+
+----->NAME = | U611 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n222 | | wire = n223 | | wire = G424 | 
+
+**********[479]**********
+----->NAME = | DFF_42 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G441 | |io =  CK | | wire = n50 | | wire = n399 | 
+
+----->NAME = | U472 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n282 | | wire = n496 | | wire = n274 | 
+
+----->NAME = | U542 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n212 | | wire = n213 | | wire = G441 | 
+
+----->NAME = | U612 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n224 | | wire = n47 | | wire = n222 | 
+
+**********[480]**********
+----->NAME = | DFF_43 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G447 | |io =  CK | | wire = n51 | | - | 
+
+----->NAME = | U473 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n165 | | wire = n12 | 
+
+----->NAME = | U543 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n210 | | wire = n478 | | wire = n213 | 
+
+----->NAME = | U613 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n384 | | wire = n361 | | wire = n116 | 
+
+**********[481]**********
+----->NAME = | DFF_44 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G451 | |io =  CK | | - | | wire = n398 | 
+
+----->NAME = | U474 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n170 | | wire = n13 | 
+
+----->NAME = | U544 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n54 | | wire = n50 | | wire = n212 | 
+
+----->NAME = | U614 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n385 | | wire = n450 | | wire = n384 | 
+
+**********[482]**********
+----->NAME = | DFF_45 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G459 | |io =  CK | | wire = n480 | | wire = n437 | 
+
+----->NAME = | U475 | 
+---> Gate type: INV_X1
+--->pins num is 2: | wire = n175 | | wire = n52 | 
+
+----->NAME = | U545 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n89 | | wire = n478 | | wire = n184 | 
+
+----->NAME = | U615 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n241 | | wire = n237 | | wire = G379 | 
+
+**********[483]**********
+----->NAME = | DFF_46 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G464 | |io =  CK | | wire = n468 | | wire = n436 | 
+
+----->NAME = | U476 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n469 | | wire = n66 | | wire = n13 | | wire = n165 | 
+
+----->NAME = | U546 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n478 | | wire = n85 | | wire = n188 | 
+
+----->NAME = | U616 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n243 | | wire = n244 | | wire = n241 | 
+
+**********[484]**********
+----->NAME = | DFF_47 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G469 | |io =  CK | | wire = n476 | | wire = n435 | 
+
+----->NAME = | U477 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n8 | | wire = n476 | | wire = n197 | 
+
+----->NAME = | U547 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n478 | | wire = n84 | | wire = n192 | 
+
+----->NAME = | U617 | 
+---> Gate type: AND2_X1
+--->pins num is 3: | wire = n16 | | wire = n445 | | wire = n243 | 
+
+**********[485]**********
+----->NAME = | DFF_48 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G477 | |io =  CK | | wire = n60 | | wire = n434 | 
+
+----->NAME = | U478 | 
+---> Gate type: NOR3_X1
+--->pins num is 4: | wire = n147 | | wire = n162 | | wire = n163 | | wire = G541 | 
+
+----->NAME = | U548 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n497 | | wire = n27 | | wire = G175 | 
+
+----->NAME = | U618 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n445 | | wire = n16 | | wire = n244 | 
+
+**********[486]**********
+----->NAME = | DFF_49 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G494 | |io =  CK | | wire = n61 | | wire = n414 | 
+
+----->NAME = | U479 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n164 | | wire = n471 | | wire = n163 | 
+
+----->NAME = | U549 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n129 | | wire = n130 | | wire = G657 | | wire = G693 | 
+
+----->NAME = | U619 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n233 | | wire = n230 | | wire = G397 | 
+
+**********[487]**********
+**********[488]**********
+**********[489]**********
+**********[490]**********
+**********[491]**********
+**********[492]**********
+**********[493]**********
+**********[494]**********

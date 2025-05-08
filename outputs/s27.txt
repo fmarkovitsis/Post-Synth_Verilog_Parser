@@ -1,0 +1,257 @@
+1st Parsing in order to find the number of elements...
+
+first parsing ... number of ios: 8
+
+
+first parsing ... number of wires: 12
+
+2nd Parsing in order to find the elements...
+
+
+----------Wires Array----------
+Number of wires: 12
+**********[0]**********
+----->NAME = | G13 |
+--->ccs num is 2: | DFF_2 | | U17 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n10 |
+--->ccs num is 2: | DFF_0 | | U13 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[1]**********
+----->NAME = | n11 |
+--->ccs num is 3: | DFF_1 | | U16 | | U19 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[2]**********
+
+**********[3]**********
+
+**********[4]**********
+----->NAME = | n1 |
+--->ccs num is 2: | DFF_1 | | U12 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[5]**********
+----->NAME = | n2 |
+--->ccs num is 3: | DFF_2 | | U18 | | U20 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[6]**********
+----->NAME = | n3 |
+--->ccs num is 2: | U17 | | U18 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[7]**********
+----->NAME = | n4 |
+--->ccs num is 2: | U13 | | U14 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[8]**********
+----->NAME = | n5 |
+--->ccs num is 2: | U13 | | U15 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[9]**********
+----->NAME = | G10 |
+--->ccs num is 2: | DFF_0 | | U21 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | n6 |
+--->ccs num is 2: | U15 | | U20 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[10]**********
+----->NAME = | n7 |
+--->ccs num is 2: | U15 | | U19 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[11]**********
+----->NAME = | n8 |
+--->ccs num is 2: | U14 | | U16 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+
+
+----------Ios Array----------
+Number of ios: 8
+**********[0]**********
+
+**********[1]**********
+
+**********[2]**********
+
+**********[3]**********
+----->NAME = | VDD -- 0 |
+--->ccs num is 0: 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | CK -- 0 |
+--->ccs num is 3: | DFF_0 | | DFF_1 | | DFF_2 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[4]**********
+----->NAME = | G0 -- 0 |
+--->ccs num is 3: | U16 | | U19 | | U21 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G17 -- 1 |
+--->ccs num is 3: | U12 | | U13 | | U21 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[5]**********
+----->NAME = | G1 -- 0 |
+--->ccs num is 2: | U18 | | U20 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[6]**********
+----->NAME = | GND -- 0 |
+--->ccs num is 0: 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+----->NAME = | G2 -- 0 |
+--->ccs num is 1: | U17 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+**********[7]**********
+----->NAME = | G3 -- 0 |
+--->ccs num is 1: | U14 | 
+---> constant  = -1
+--->assign connections num = 0 : 
+
+
+
+
+----------Gates Array----------
+Number of gates: 7
+**********[0]***********
+-----> NAME = | DFF_X1 | 
+--->pins num is 4: | D | | CK | | Q | | QN | 
+
+**********[1]***********
+-----> NAME = | INV_X1 | 
+--->pins num is 2: | A | | ZN | 
+
+**********[2]***********
+-----> NAME = | NAND3_X1 | 
+--->pins num is 4: | A1 | | A2 | | A3 | | ZN | 
+
+**********[3]***********
+-----> NAME = | OR2_X1 | 
+--->pins num is 3: | A1 | | A2 | | ZN | 
+
+**********[4]***********
+-----> NAME = | NAND2_X1 | 
+--->pins num is 3: | A1 | | A2 | | ZN | 
+
+**********[5]***********
+-----> NAME = | NOR2_X1 | 
+--->pins num is 3: | A1 | | A2 | | ZN | 
+
+**********[6]***********
+-----> NAME = | AND2_X1 | 
+--->pins num is 3: | A1 | | A2 | | ZN | 
+
+
+
+----------Components Array----------
+Number of components: 13
+**********[0]**********
+----->NAME = | DFF_2 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G13 | |io =  CK | | wire = n2 | | - | 
+
+**********[1]**********
+**********[2]**********
+**********[3]**********
+----->NAME = | U12 | 
+---> Gate type: INV_X1
+--->pins num is 2: |io =  G17 | | wire = n1 | 
+
+**********[4]**********
+----->NAME = | U13 | 
+---> Gate type: NAND3_X1
+--->pins num is 4: | wire = n4 | | wire = n5 | | wire = n10 | |io =  G17 | 
+
+**********[5]**********
+----->NAME = | U14 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n8 | |io =  G3 | | wire = n4 | 
+
+**********[6]**********
+----->NAME = | U15 | 
+---> Gate type: NAND2_X1
+--->pins num is 3: | wire = n6 | | wire = n7 | | wire = n5 | 
+
+**********[7]**********
+----->NAME = | U16 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: | wire = n11 | |io =  G0 | | wire = n8 | 
+
+**********[8]**********
+----->NAME = | U17 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: |io =  G2 | | wire = n3 | | wire = G13 | 
+
+----->NAME = | U20 | 
+---> Gate type: OR2_X1
+--->pins num is 3: | wire = n2 | |io =  G1 | | wire = n6 | 
+
+**********[9]**********
+----->NAME = | U18 | 
+---> Gate type: NOR2_X1
+--->pins num is 3: |io =  G1 | | wire = n2 | | wire = n3 | 
+
+----->NAME = | U21 | 
+---> Gate type: AND2_X1
+--->pins num is 3: |io =  G17 | |io =  G0 | | wire = G10 | 
+
+**********[10]**********
+----->NAME = | U19 | 
+---> Gate type: OR2_X1
+--->pins num is 3: |io =  G0 | | wire = n11 | | wire = n7 | 
+
+**********[11]**********
+----->NAME = | DFF_0 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = G10 | |io =  CK | | - | | wire = n10 | 
+
+**********[12]**********
+----->NAME = | DFF_1 | 
+---> Gate type: DFF_X1
+--->pins num is 4: | wire = n1 | |io =  CK | | - | | wire = n11 | 
+

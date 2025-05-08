@@ -1,0 +1,73 @@
+LITOU ELEFTHERIA elitou@uth.gr
+MARKOVITSIS FILIPPOS fmarkovitsis@uth.gr
+SIGALA MARIANNA msigala@uth.gr
+
+Verilog_designs: 
+	includes the Verilog files used for testing our parser
+
+outputs:
+	the corresponding outputs
+
+run : 
+1) make clean
+2) make
+
+3) ./parser <path to designs>/<model name>.v
+
+
+
+
+Prints:
+
+----------Wires Array----------
+Number of wires: total num of wires in hash table
+**********[position in hashtable]**********
+----->NAME = | name of wire |
+--->ccs num is %d: | name of ccs (component)| 
+---> constant  = -1(no constant value), 0(1'b0), 1(1'b1)-> for assign statement
+--->assign connections num = %d : | name of assigned connection -- type| (type=0=io type=1=wire) 
+
+
+
+
+
+
+----------Ios Array----------
+Number of ios: total num of ios in hash table
+**********[position in hashtable]**********
+----->NAME = | io name --type| (type=0=primary_input type=1=primary_output)
+--->ccs num is %d: | name of ccs (component)| 
+---> constant  = -1(no constant value), 0(1'b0), 1(1'b1)-> for assign statement
+--->assign connections num = = %d : | name of assigned connection -- type| (type=0=io type=1=wire )
+
+
+
+----------Gates Array----------
+Number of gates: total num of gates in hash table
+**********[position in hashtable]**********
+-----> NAME = | gate name | 
+--->pins num is %d: | each pin name| 
+
+*for dff_x1 the pin num will be always 4 for pins D,CK,Q,Qn and 
+in the | each pin name|  there will be either 3 or 4 depending 
+on how many of them are connected
+
+
+
+
+----------Components Array----------
+Number of components: total num of components in hash table
+**********[position in hashtable]**********
+----->NAME = | component name | 
+---> Gate type: gate type for the component
+--->pins num is %d: | type = name |
+
+
+*|type = name|--> type can be wire or io and name is the name of the pin(wire/io)
+If an element is in both ios and wires it will be shown twice, 
+BUT it will be added one time in pins num.
+
+type can also be not a wire/io but a constant =1'b0/1'b1
+
+*for dff_x1 types if the component has only 3/4 used pins 
+print | - |  in the unconnected port

@@ -1,0 +1,28 @@
+Parsing s27.def file...Finished.
+COMPONENTS 13
+ n10  output of cell dff_x1 DFF_0 with inputs G10 goes to : A3 pin of U13
+ G10  output of cell and2_x1 U21 with inputs G0  G17 goes to : D pin of DFF_0 
+ n11  output of cell dff_x1 DFF_1 with inputs n1 goes to : A2 pin of U19 pin of U16 
+ G13  output of cell nor2_x1 U17 with inputs G2  n3 goes to : D pin of DFF_2 
+ G17  output of cell nand3_x1 U13 with inputs n4  n5  n10 goes to : A1 pin of U21 A pin of U12 
+ VDD  goes to : 
+ GND  goes to : 
+ n1  output of cell inv_x1 U12 with inputs G17 goes to : D pin of DFF_1 
+ n2  output of cell dff_x1 DFF_2 with inputs G13 goes to : A1 pin of U20 A2 pin of U18
+ n3  output of cell nor2_x1 U18 with inputs G1  n2 goes to : A2 pin of U17 
+ n4  output of cell or2_x1 U14 with inputs G3 n8 goes to : A1 pin of U13
+ n5  output of cell nand2_x1 U15 with inputs n6  n7 goes to : A2 pin of U13
+ n6  output of cell or2_x1 U20 with inputs G1  n2 goes to : A1 pin of U15 
+ n7  output of cell or2_x1 U19 with inputs G0  n11 goes to : A2 pin of U15 
+ n8  output of cell nor2_x1 U16 with inputs G0  n11 goes to : A1 pin of U14
+ G0  goes to : A2 pin of U21 A1 pin of U19  A2 pin of U16 
+ G1  goes to : A2 pin of U20 A1 pin of U18
+ G2  goes to : A1 pin of U17 
+ G3  goes to : A2 pin of U14 
+primary input: VDD
+primary input: GND
+primary input: G0
+primary input: G1
+primary input: G2
+primary input: G3
+primary output: G17
